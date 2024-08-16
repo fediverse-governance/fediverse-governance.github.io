@@ -41,7 +41,6 @@ crypto
 CSAM
 CSV
 customizable
-dariusk
 datasets
 DDoS
 defederate
