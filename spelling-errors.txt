@@ -16,7 +16,7 @@ Bannable
 BDFL
 BDFN
 blocklist
-Blocklists
+blocklists
 Bluesky
 bocklists
 Bridgy
