@@ -146,7 +146,7 @@ OAuth
 OCF
 Oliphant
 onboarded
-onboarding
+Onboarding
 ophiocephalic
 orgs
 OStatus
@@ -155,7 +155,7 @@ Patreon
 PeerTube
 PhotoDNA
 Piaille
-PixelFed
+Pixelfed
 Pleroma’s
 policymaking
 pre
