@@ -9,7 +9,6 @@ content/10.report.md:20:mitigations
 content/10.report.md:20:mitigations
 content/10.report.md:22:fediverse
 content/10.report.md:22:Fediverse
-content/10.report.md:40:mitigations
 content/10.report.md:40:Mitigations
 content/10.report.md:64:fediverse
 content/10.report.md:64:Fediverse
@@ -220,8 +219,6 @@ content/10.report.md:436:Moritz
 content/10.report.md:436:Prodromou
 content/10.report.md:436:Renato
 content/10.report.md:436:Siino
-content/10.report.md:438:mitigations
-content/10.report.md:438:Mitigations
 content/10.report.md:440:Fediverse
 content/10.report.md:440:microblogging
 content/10.report.md:442:mitigations

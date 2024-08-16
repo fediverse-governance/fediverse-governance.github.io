@@ -21,8 +21,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-16" />
   <meta name="citation_publication_date" content="2024-08-16" />
   <meta property="article:published_time" content="2024-08-16" />
-  <meta name="dc.modified" content="2024-08-16T03:16:32+00:00" />
-  <meta property="article:modified_time" content="2024-08-16T03:16:32+00:00" />
+  <meta name="dc.modified" content="2024-08-16T03:25:24+00:00" />
+  <meta property="article:modified_time" content="2024-08-16T03:25:24+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -35,9 +35,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://fediverse-governance.github.io/fediverse-governance.github.io/" />
   <meta name="citation_pdf_url" content="https://fediverse-governance.github.io/fediverse-governance.github.io/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fediverse-governance.github.io/fediverse-governance.github.io/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/fediverse-governance.github.io/v/5c002563710bc1a7f47280a110d03c41a5bb3ba8/" />
-  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/5c002563710bc1a7f47280a110d03c41a5bb3ba8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/5c002563710bc1a7f47280a110d03c41a5bb3ba8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/fediverse-governance.github.io/v/38cab73c2aaca6b12a254e537c9a3ba156e7e4f8/" />
+  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/38cab73c2aaca6b12a254e537c9a3ba156e7e4f8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/38cab73c2aaca6b12a254e537c9a3ba156e7e4f8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://fediverse-governance.github.io/fediverse-governance.github.io/v/5c002563710bc1a7f47280a110d03c41a5bb3ba8/))
+([permalink](https://fediverse-governance.github.io/fediverse-governance.github.io/v/38cab73c2aaca6b12a254e537c9a3ba156e7e4f8/))
 was automatically generated
-from [fediverse-governance/fediverse-governance.github.io@5c00256](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/5c002563710bc1a7f47280a110d03c41a5bb3ba8)
+from [fediverse-governance/fediverse-governance.github.io@38cab73](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/38cab73c2aaca6b12a254e537c9a3ba156e7e4f8)
 on August 16, 2024.
 </em></small>
 
@@ -87,7 +87,7 @@ August 13, 2024
 
 [**How to Use These Findings	4**](\#how-to-use-these-findings)
 
-[Suggested reading pathways by audience/interest	4](\#suggested-reading-pathways-by-audience/interest)
+[Suggested reading pathways by audience/interest	4](\#suggested-reading-pathways)
 
 [**Project Introduction	6**](\#project-introduction)
 
@@ -117,7 +117,7 @@ August 13, 2024
 
 [Special thanks	17](\#special-thanks)
 
-[**Section One: Overall Observations, Risks, and Mitigations	19**](\#section-one:-overall-observations,-risks,-and-mitigations)
+[**Section One: Overall Observations, Risks, and Mitigations	19**](\#section-one:-overall-observations)
 
 [1\. The big themes	19](\#1.-the-big-themes)
 
@@ -127,13 +127,13 @@ August 13, 2024
 
 [Class 2: Sources of moderate unresolved frustration or anxiety	28](\#class-2:-sources-of-moderate-unresolved-frustration-or-anxiety)
 
-[Class 3: Sources of broader & more intense anxiety (often deferred)	29](\#class-3:-sources-of-broader-&-more-intense-anxiety-(often-deferred))
+[Class 3: Sources of broader & more intense anxiety (often deferred)	29](\#class-3:-sources-of-broader-and-more-intense-anxiety-(often-deferred))
 
 [3\. High-level recommendations	31](\#3.-high-level-recommendations)
 
 [Best practices for server teams	31](\#best-practices-for-server-teams)
 
-[Opportunities for addressing unmet needs & unmitigated risks	32](\#opportunities-for-addressing-unmet-needs-&-unmitigated-risks)
+[Opportunities for addressing unmet needs & unmitigated risks	32](\#opportunities-for-addressing-unmet-needs-and-unmitigated-risks)
 
 [**Section Two: Moderation	35**](\#section-two:-moderation)
 
@@ -147,11 +147,11 @@ August 13, 2024
 
 [1.1 Registration by application	38](\#1.1-registration-by-application)
 
-[1.2 Closed registration/invite-only	40](\#1.2-closed-registration/invite-only)
+[1.2 Closed registration/invite-only	40](\#1.2-closed-and-invite-only-registration)
 
 [1.3 Open registration	41](\#1.3-open-registration)
 
-[2\. Rules & guidelines	43](\#2.-rules-&-guidelines)
+[2\. Rules & guidelines	43](\#2.-rules-and-guidelines)
 
 [2.1 Documentation types and links	43](\#2.1-documentation-types-and-links)
 
@@ -167,7 +167,7 @@ August 13, 2024
 
 [4\. Complex moderation actions and decisions	50](\#4.-complex-moderation-actions-and-decisions)
 
-[4.1 Vibes, norms, and socialization	50](\#4.1-vibes,-norms,-and-socialization)
+[4.1 Vibes, norms, and socialization	50](\#4.1-vibes-and-norms)
 
 [4.2 Collaborative decision-making	52](\#4.2-collaborative-decision-making)
 
@@ -253,7 +253,7 @@ August 13, 2024
 
 [1.4 Collaboration between local moderators	93](\#1.4-collaboration-between-local-moderators)
 
-[1.5 Moderator/user communication	93](\#1.5-moderator/user-communication)
+[1.5 Moderator/user communication	93](\#1.5-communication-between-moderator-and-user)
 
 [1.6 Shared blocklists and shared blocks	95](\#1.6-shared-blocklists-and-shared-blocks)
 
@@ -307,7 +307,7 @@ To make our research as useful as possible for multiple audiences, we’ve organ
 
 * The third document, **Fediverse Governance Opportunities for Funders & Developers** (\~4,000 words), is a condensed version of our findings *for individuals and institutions interested in building and supporting stronger infrastructure for Fediverse governance*, also with links to more comprehensive information in the full Findings Report.
 
-### **Suggested reading pathways by audience/interest** {#suggested-reading-pathways-by-audience/interest}
+### **Suggested reading pathways** {#suggested-reading-pathways}
 
 If you’re **a relatively new Fediverse administrator, moderator, or other participant in governance** interested in applying our participants’ insights to your own work, the simplest way into these findings will probably be to read the **Quick-Start Guide** and the linked sections of the full **Findings Report** that draw your attention. 
 
@@ -515,7 +515,7 @@ This glossary is intended to define terminology as you will see it used in this 
 
 For the invaluable assistance as research participants, reviewers, advisors, translators, or more than one of those roles, we thank Johanna B., Larissa Babak, Tim Bray, Bumblefudge, Renato "Lond" Cerqueira, EverydayMoggie, Kathleen Fitzgerald, Eduardo "Flancian" Ivanec, Robert Gehl, Phil Siino Haack, Ashkan Kazemi, Jaz-Michel King, Kyle Kingsbury, Samantha Lai, l4p1n, Manon Marchand, Katharina Meyer, Jon Pincus, Pine, Evan Prodromou, Quintessence, Ryan Randall, Nathan Schneider, Moritz Steiner, the participants who preferred not to be named in print, and the folks at the Digital Infrastructure Insight Fund for making this work possible.
 
-## **Section One: Overall Observations, Risks, and Mitigations** {#section-one:-overall-observations,-risks,-and-mitigations}
+## **Section One: Overall Observations** {#section-one:-overall-observations}
 
 Our aim in this report is to document **how governance happens** within our sample of Fediverse microblogging servers and to identify several modes and methods of governance that work well for our participants, to discuss common threats to effective governance, and to make brief recommendations that either emerge from the practices of the servers we studied or which our interviewees mentioned as possible ways of handling risks. 
 
@@ -699,7 +699,7 @@ Class 2 risks represent immediate gaps that server teams flagged in our conversa
 
   * lack of repositories of legal and financial guidance for server operators
 
-#### Class 3: Sources of broader & more intense anxiety (often deferred) {#class-3:-sources-of-broader-&-more-intense-anxiety-(often-deferred)}
+#### Class 3: Sources of broader and more intense anxiety (often deferred) {#class-3:-sources-of-broader-and-more-intense-anxiety-(often-deferred)}
 
 Class 3 risks represent potentially existential threats to the Fediverse as it’s understood by the teams we spoke with, and would benefit from collective and multifaceted approaches across social/cultural and technical domains. 
 
@@ -773,7 +773,7 @@ These are actions server teams—especially teams considering setting up a new s
 
 * Consider joining one or more server admin/moderator forums (ex: the [Mastodon Discord for supporting members](https://www.patreon.com/mastodon), [IFTAS Connect](https://connect.iftas.org)) for peer support, resource sharing, and easier communication with other server teams.
 
-#### Opportunities for addressing unmet needs & unmitigated risks {#opportunities-for-addressing-unmet-needs-&-unmitigated-risks}
+#### Opportunities for addressing unmet needs and unmitigated risks {#opportunities-for-addressing-unmet-needs-and-unmitigated-risks}
 
 Solutions to the more challenging problems server teams discussed with us will require ambitious action across multiple levels of society, but we think a first step is to **clearly identify opportunities to contribute to the health and longevity of the Fediverse** and **the unique opportunities for self-governance and humane networking** it can provide. We also discuss each of these opportunities in greater depth in the accompanying document, **Fediverse Governance Opportunities for Funders and Developers**.
 
@@ -886,7 +886,7 @@ Two other server teams we spoke with outside our core group also run registratio
 
 *One thing I want to emphasize is our moderation load has been remarkably light and I think having paid membership or perhaps even more generally approved membership where there's at least some human who looks at a membership and clicks the approve button makes a huge qualitative difference.*
 
-#### 1.2 Closed registration/invite-only {#1.2-closed-registration/invite-only}
+#### 1.2 Closed and invite-only registration {#1.2-closed-and-invite-only-registration}
 
 **Masto.donte.com.br** has fully closed registration, but allows existing members to invite new users via Mastodon’s built-in invitation system. Earlier in that server’s life, the admin had opened registration once a week or so, but later chose to close them (with invites open) to prevent the server from growing beyond the abilities of the trusted moderation team, and to prevent the server’s demands—both technical and social—from becoming too consuming for the primary administrator. 
 
@@ -932,7 +932,7 @@ The lead admin of the largest server on our list, Hachyderm, spoke extensively a
 
 ## 
 
-### **2\. Rules & guidelines** {#2.-rules-&-guidelines}
+### **2\. Rules and guidelines** {#2.-rules-and-guidelines}
 
 All the server teams we spoke with maintain at least a simple set of public rules for their servers, and many maintain much more extensive documentation about their server’s character, norms, and governance. A few servers also have private documentation for their moderation teams and other people involved in the server’s operation. 
 
@@ -1094,7 +1094,7 @@ In nearly every interview with moderators, our interviewees called out special c
 
 Along with contentious Fediverse-wide considerations about things like Threads federation and the Bluesky bridge discussed in detail in [Section Four: Federated Diplomacy](\#section-four:-federated-diplomacy), we encountered many cases of admins and mods engaging deeply with very fine-grained policy decisions and moderation actions. Those interpersonal conflicts often resulted in intense discussion across moderation teams and also with wider groups including friends, Fediverse admin peers, and—particularly on more democratically governed servers—with subsets or the entirety of the server’s membership.
 
-#### 4.1 Vibes, norms, and socialization {#4.1-vibes,-norms,-and-socialization}
+#### 4.1 Vibes and norms {#4.1-vibes-and-norms}
 
 When it comes to moderating the behavior of their own members, the server teams we spoke with vary widely in how much they try to shape behaviors and norms on their servers. Several maintain a light-moderation stance, taking action only on posts that obviously break the server’s stated—sometimes largely legally mandated—rules. Other teams, though, make considerable efforts to socialize members toward more harmonious behavior in the community. One admin in the latter camp put it this way:
 
@@ -1750,7 +1750,7 @@ Some moderators wished for collaboration features built into the moderation inte
 
 A separate but related issue was moderators being able to collaborate *across servers*—this is addressed later in this section.
 
-#### 1.5 Moderator/user communication {#1.5-moderator/user-communication}
+#### 1.5 Communication between moderator and user {#1.5-communication-between-moderator-and-user}
 
 Moderators wished for ways to communicate with users about the resolution of a report or an appeal. When a moderator resolves a report by taking some sort of action, or by taking no action at all, the user who made the report does not receive any communication that this occurred. According to one moderator:
 
