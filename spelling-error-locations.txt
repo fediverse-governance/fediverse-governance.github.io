@@ -908,3 +908,8 @@ content/10.report.md:1835:Fediverse
 content/10.report.md:1839:CoSocial
 content/10.report.md:1842:xZ
 content/10.report.md:1846:VC
+content/20.images.md:1:ux
+content/20.images.md:7:dM
+content/20.images.md:7:dMs
+content/20.images.md:7:Vc
+content/20.images.md:7:xz
