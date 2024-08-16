@@ -21,8 +21,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-16" />
   <meta name="citation_publication_date" content="2024-08-16" />
   <meta property="article:published_time" content="2024-08-16" />
-  <meta name="dc.modified" content="2024-08-16T03:57:44+00:00" />
-  <meta property="article:modified_time" content="2024-08-16T03:57:44+00:00" />
+  <meta name="dc.modified" content="2024-08-16T04:04:19+00:00" />
+  <meta property="article:modified_time" content="2024-08-16T04:04:19+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -35,9 +35,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://fediverse-governance.github.io/fediverse-governance.github.io/" />
   <meta name="citation_pdf_url" content="https://fediverse-governance.github.io/fediverse-governance.github.io/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fediverse-governance.github.io/fediverse-governance.github.io/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/fediverse-governance.github.io/v/428e272f74f4d43c3b7490d412bc9f6e896ef1e6/" />
-  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/428e272f74f4d43c3b7490d412bc9f6e896ef1e6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/428e272f74f4d43c3b7490d412bc9f6e896ef1e6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/fediverse-governance.github.io/v/a49d722c90497bbf8bfed7128d9aa8bba9f59258/" />
+  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/a49d722c90497bbf8bfed7128d9aa8bba9f59258/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/a49d722c90497bbf8bfed7128d9aa8bba9f59258/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://fediverse-governance.github.io/fediverse-governance.github.io/v/428e272f74f4d43c3b7490d412bc9f6e896ef1e6/))
+([permalink](https://fediverse-governance.github.io/fediverse-governance.github.io/v/a49d722c90497bbf8bfed7128d9aa8bba9f59258/))
 was automatically generated
-from [fediverse-governance/fediverse-governance.github.io@428e272](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/428e272f74f4d43c3b7490d412bc9f6e896ef1e6)
+from [fediverse-governance/fediverse-governance.github.io@a49d722](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/a49d722c90497bbf8bfed7128d9aa8bba9f59258)
 on August 16, 2024.
 </em></small>
 
@@ -127,7 +127,7 @@ August 13, 2024
 
 [Class 2: Sources of moderate unresolved frustration or anxiety	27](\#class-2:-sources-of-moderate-unresolved-frustration-or-anxiety)
 
-[Class 3: Sources of broader and more intense anxiety (often deferred)	28](\#class-3:-sources-of-broader-and-more-intense-anxiety-(often-deferred))
+[Class 3: Sources of broader and more intense anxiety	28](\#class-3:-sources-of-broader-and-more-intense-anxiety)
 
 [3\. High-level recommendations	30](\#3.-high-level-recommendations)
 
@@ -699,7 +699,7 @@ Class 2 risks represent immediate gaps that server teams flagged in our conversa
 
   * lack of repositories of legal and financial guidance for server operators
 
-#### Class 3: Sources of broader and more intense anxiety (often deferred) {#class-3:-sources-of-broader-and-more-intense-anxiety-(often-deferred)}
+#### Class 3: Sources of broader and more intense anxiety {#class-3:-sources-of-broader-and-more-intense-anxiety}
 
 Class 3 risks represent potentially existential threats to the Fediverse as it’s understood by the teams we spoke with, and would benefit from collective and multifaceted approaches across social/cultural and technical domains. 
 
@@ -749,25 +749,25 @@ These are actions server teams—especially teams considering setting up a new s
 
 * Consider server governance/leadership models early, before decision-making processes and tech stacks are locked in or harder to change. This isn’t meant to be a roadblock to experimentation—teams don’t need to incorporate a formal legal entity to think about governance structures, but especially if they’re interested in forming a cooperative or other not-completely-top-down server, knowing that early on can help guide other decisions, including the selection of a technical stack. ([Section Three: Server Leadership](\#section-three:-server-leadership))
 
-* Choose an account registration model carefully and with an understanding of the trade-offs of open, moderated, and by-invitation/closed registration—and the various things admins and moderators can do to mitigate the risks of more open models, including publishing clear rules and process documentation, staffing more moderators, and maintaining aggressive defederation lists. ([Section Two: Moderation](\#heading=h.ylib8w64t14o))
+* Choose an account registration model carefully and with an understanding of the trade-offs of open, moderated, and by-invitation/closed registration—and the various things admins and moderators can do to mitigate the risks of more open models, including publishing clear rules and process documentation, staffing more moderators, and maintaining aggressive defederation lists. ([Section Two: Moderation](\#section-two:-moderation))
 
-* Seek out moderators with strong on- and offline community management experience, low reactivity, and potentially first or second-degree IRL (or long-term online) connections to a relevant community, to reduce the risk of disruptive problems with the moderation team—and unnecessary stress on underprepared moderators. ([Section Two: Moderation](\#heading=h.ylib8w64t14o))
+* Seek out moderators with strong on- and offline community management experience, low reactivity, and potentially first or second-degree IRL (or long-term online) connections to a relevant community, to reduce the risk of disruptive problems with the moderation team—and unnecessary stress on underprepared moderators. ([Section Two: Moderation](\#section-two:-moderation))
 
-* Build a server team—which might include server admins, moderators, board members, advisory council members, and other roles—with broad representation from the community or communities the server is intended to host. ([Section Two: Moderation](\#heading=h.ylib8w64t14o) and [Section Three: Server Leadership](\#section-three:-server-leadership))
+* Build a server team—which might include server admins, moderators, board members, advisory council members, and other roles—with broad representation from the community or communities the server is intended to host. ([Section Two: Moderation](\#section-two:-moderation) and [Section Three: Server Leadership](\#section-three:-server-leadership))
 
-* Create a generic, well-publicized, two-factor-secured user-facing moderation account like “@[moderators@example.social](mailto:moderators@example.social)” that the entire server team has access to, and establish rules for managing DMs from that account. (In Mastodon, this would necessitate also having shared email for moderators if two-factor authentication is enabled as recommended.) ([Section Two: Moderation](\#heading=h.ylib8w64t14o), [Section Five: Tooling](\#section-five:-tooling))
+* Create a generic, well-publicized, two-factor-secured user-facing moderation account like “@moderators@example.social” that the entire server team has access to, and establish rules for managing DMs from that account. (In Mastodon, this would necessitate also having shared email for moderators if two-factor authentication is enabled as recommended.) ([Section Two: Moderation](\#section-two:-moderation), [Section Five: Tooling](\#section-five:-tooling))
 
-* Document plentifully and in ways that make it easy to understand the (desired) character of the server, the server team’s sense of what its responsibilities are, and the processes and guidelines in place for content and member moderation, inter-server governance, and governance of the team itself. ([Section Two: Moderation](\#heading=h.ylib8w64t14o), [Section Three: Server Leadership](\#section-three:-server-leadership), [Section Four: Federated Diplomacy](\#section-four:-federated-diplomacy))
+* Document plentifully and in ways that make it easy to understand the (desired) character of the server, the server team’s sense of what its responsibilities are, and the processes and guidelines in place for content and member moderation, inter-server governance, and governance of the team itself. ([Section Two: Moderation](\#section-two:-moderation), [Section Three: Server Leadership](\#section-three:-server-leadership), [Section Four: Federated Diplomacy](\#section-four:-federated-diplomacy))
 
 * Supplement Fediverse infrastructure by selecting (or building out) additional processes and systems necessary to support the degree of member participation, financial support, member communication, and intra-server-team communications teams need to run the server. ([Section Three: Server Leadership](\#section-three:-server-leadership))
 
-* Consider doing onboarding and training for all new members of the server team, including discussions of past decisions, recusals, and preferred methods for handling complex or heated interpersonal problems. ([Section Two: Moderation](\#heading=h.ylib8w64t14o))
+* Consider doing onboarding and training for all new members of the server team, including discussions of past decisions, recusals, and preferred methods for handling complex or heated interpersonal problems. ([Section Two: Moderation](\#section-two:-moderation))
 
-* Use specific cases and complex decisions as opportunities to refine (and document) the team’s sense of its responsibilities and underlying goals/values. ([Section Two: Moderation](\#heading=h.ylib8w64t14o), [Section Four: Federated Diplomacy](\#section-four:-federated-diplomacy))
+* Use specific cases and complex decisions as opportunities to refine (and document) the team’s sense of its responsibilities and underlying goals/values. ([Section Two: Moderation](\#section-two:-moderation), [Section Four: Federated Diplomacy](\#section-four:-federated-diplomacy))
 
 * Consider working with volunteer or paid legal counsel to validate the team’s understanding of its liabilities and responsibilities in the relevant jurisdiction(s). ([Section Three: Server Leadership](\#section-three:-server-leadership))
 
-* Address overextension and burnout as quickly as possible, ideally before they happen, by building out more human, technical, and financial capacity than the team thinks will be needed. ([Section Two: Moderation](\#heading=h.ylib8w64t14o))
+* Address overextension and burnout as quickly as possible, ideally before they happen, by building out more human, technical, and financial capacity than the team thinks will be needed. ([Section Two: Moderation](\#section-two:-moderation))
 
 * Communicate transparently with members (and potential members) about big social and technical decisions and their implications, financial sustainability, and future plans. ([Section Three: Server Leadership](\#section-three:-server-leadership))
 
@@ -795,7 +795,7 @@ Solutions to the more challenging problems server teams discussed with us will r
 
 * Greater and more committed **participation in the Fediverse by stable institutions** including civic and governing bodies, cultural and media organizations, higher learning and research institutions, and technology and philanthropic organizations. ([Section Three: Server Leadership](\#section-three:-server-leadership))
 
-* The development of a multiplicity of **collaborative institutions and coalitions focused on creating legally vetted and transparent data-sharing, research, and threat-analysis capacities** that respect the Fediverse’s non-centralized character and allow server teams to opt in at varying levels of granularity. ([Section Two: Moderation](\#heading=h.ylib8w64t14o))
+* The development of a multiplicity of **collaborative institutions and coalitions focused on creating legally vetted and transparent data-sharing, research, and threat-analysis capacities** that respect the Fediverse’s non-centralized character and allow server teams to opt in at varying levels of granularity. ([Section Two: Moderation](\#section-two:-moderation))
 
 * Clear and welcoming communications that accurately **portray the Fediverse’s benefits and trade-offs** and that **help potential members understand their needs and then find servers that will best match them**. ([Section Three: Server Leadership](\#section-three:-server-leadership))
 
@@ -1704,7 +1704,7 @@ About half of the tools-focused conversation fell into what we are calling “mo
 
 ### **1\. Moderation tools** {#1.-moderation-tools}
 
-Discussion of moderation tools dominated our interviews whenever tooling came up. We’ve attempted to break this large topic into smaller chunks, and there is a lot of crossover and useful dialogue with [Section Two: Moderation](\#heading=h.9p2xpi5o97l3).
+Discussion of moderation tools dominated our interviews whenever tooling came up. We’ve attempted to break this large topic into smaller chunks, and there is a lot of crossover and useful dialogue with [Section Two: Moderation](\#section-two:-moderation).
 
 #### 1.1 Documentation and onboarding {#1.1-documentation-and-onboarding}
 
