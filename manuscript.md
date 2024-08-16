@@ -21,8 +21,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-16" />
   <meta name="citation_publication_date" content="2024-08-16" />
   <meta property="article:published_time" content="2024-08-16" />
-  <meta name="dc.modified" content="2024-08-16T05:24:00+00:00" />
-  <meta property="article:modified_time" content="2024-08-16T05:24:00+00:00" />
+  <meta name="dc.modified" content="2024-08-16T05:25:39+00:00" />
+  <meta property="article:modified_time" content="2024-08-16T05:25:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -35,9 +35,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://fediverse-governance.github.io/fediverse-governance.github.io/" />
   <meta name="citation_pdf_url" content="https://fediverse-governance.github.io/fediverse-governance.github.io/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fediverse-governance.github.io/fediverse-governance.github.io/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/fediverse-governance.github.io/v/16c6fb8c20875f619733fa82f30adbe972a4ec2d/" />
-  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/16c6fb8c20875f619733fa82f30adbe972a4ec2d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/16c6fb8c20875f619733fa82f30adbe972a4ec2d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/fediverse-governance.github.io/v/ec0638d20764af6c6f8b869b0598343b1e1eeab8/" />
+  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/ec0638d20764af6c6f8b869b0598343b1e1eeab8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/ec0638d20764af6c6f8b869b0598343b1e1eeab8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://fediverse-governance.github.io/fediverse-governance.github.io/v/16c6fb8c20875f619733fa82f30adbe972a4ec2d/))
+([permalink](https://fediverse-governance.github.io/fediverse-governance.github.io/v/ec0638d20764af6c6f8b869b0598343b1e1eeab8/))
 was automatically generated
-from [fediverse-governance/fediverse-governance.github.io@16c6fb8](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/16c6fb8c20875f619733fa82f30adbe972a4ec2d)
+from [fediverse-governance/fediverse-governance.github.io@ec0638d](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/ec0638d20764af6c6f8b869b0598343b1e1eeab8)
 on August 16, 2024.
 </em></small>
 
@@ -106,8 +106,6 @@ If you’re **a relatively new Fediverse administrator, moderator, or other part
 If you’re a **part of the philanthropic ecosystem or a developer (or group of developers)** interested in the ways of strengthening Fediverse governance that emerged from our research, we recommend starting with the **Opportunities for Funders and Developers** document, and the **introductory material** and **Sections One** **and Six** of the present document. 
 
 If you’re already **deeply engaged with the Fediverse, but not prepared to read 40,000 words of material in order**, we suggest beginning by reading our **introductory material** and **Section One** in the present document and scanning the **Observations** subsections at the beginning of **Sections Two through Five** to determine which other sections will be useful to you. (**Section Six** is a great chaser\!)
-
-# 
 
 ## **Project Introduction** {#project-introduction}
 

@@ -129,7 +129,7 @@ masse
 MAUs
 Merveilles
 Meta’s
-Microblogging
+microblogging
 minoritized
 mitigations
 Moritz
@@ -146,7 +146,7 @@ OAuth
 OCF
 Oliphant
 onboarded
-Onboarding
+onboarding
 ophiocephalic
 orgs
 OStatus
@@ -181,7 +181,7 @@ signups
 Siino
 situ
 skillsets
-socio
+Socio
 spammy
 sponsorships
 StatusNet
