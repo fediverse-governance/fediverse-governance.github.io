@@ -16,7 +16,7 @@ Bannable
 BDFL
 BDFN
 blocklist
-Blocklists
+blocklists
 Bluesky
 bocklists
 Bridgy
@@ -46,7 +46,7 @@ DDoS
 defederate
 defederated
 defederating
-defederation
+Defederation
 defederations
 disjunctures
 DM
@@ -75,7 +75,7 @@ Flipboard
 fluencies
 FOIA
 framings
-funders
+Funders
 furries
 GDPR
 Gehl
