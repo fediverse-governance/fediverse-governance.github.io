@@ -9,7 +9,6 @@ content/10.report.md:20:mitigations
 content/10.report.md:20:mitigations
 content/10.report.md:22:fediverse
 content/10.report.md:22:Fediverse
-content/10.report.md:40:Mitigations
 content/10.report.md:64:fediverse
 content/10.report.md:64:Fediverse
 content/10.report.md:94:csam

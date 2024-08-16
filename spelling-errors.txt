@@ -16,7 +16,7 @@ Bannable
 BDFL
 BDFN
 blocklist
-blocklists
+Blocklists
 Bluesky
 bocklists
 Bridgy
@@ -46,7 +46,7 @@ DDoS
 defederate
 defederated
 defederating
-defederation
+Defederation
 defederations
 disjunctures
 DM
@@ -129,7 +129,7 @@ masse
 MAUs
 Merveilles
 Meta’s
-microblogging
+Microblogging
 minoritized
 mitigations
 Moritz
@@ -146,7 +146,7 @@ OAuth
 OCF
 Oliphant
 onboarded
-Onboarding
+onboarding
 ophiocephalic
 orgs
 OStatus
