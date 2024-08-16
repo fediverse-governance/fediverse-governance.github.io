@@ -20,8 +20,8 @@ include-after-body:
 - build/plugins/table-of-contents.html
 - build/plugins/tooltips.html
 ### third-party plugins
-- build/plugins/analytics.html
-- build/plugins/hypothesis.html
+#- build/plugins/analytics.html
+#- build/plugins/hypothesis.html
 - build/plugins/mathjax.html
 #- build/plugins/scite.html
 variables:
