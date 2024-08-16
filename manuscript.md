@@ -21,8 +21,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-16" />
   <meta name="citation_publication_date" content="2024-08-16" />
   <meta property="article:published_time" content="2024-08-16" />
-  <meta name="dc.modified" content="2024-08-16T05:17:41+00:00" />
-  <meta property="article:modified_time" content="2024-08-16T05:17:41+00:00" />
+  <meta name="dc.modified" content="2024-08-16T05:24:00+00:00" />
+  <meta property="article:modified_time" content="2024-08-16T05:24:00+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -35,9 +35,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://fediverse-governance.github.io/fediverse-governance.github.io/" />
   <meta name="citation_pdf_url" content="https://fediverse-governance.github.io/fediverse-governance.github.io/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fediverse-governance.github.io/fediverse-governance.github.io/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/fediverse-governance.github.io/v/499ee7e5f4c6704e898dc562fee437667c923843/" />
-  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/499ee7e5f4c6704e898dc562fee437667c923843/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/499ee7e5f4c6704e898dc562fee437667c923843/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/fediverse-governance.github.io/v/16c6fb8c20875f619733fa82f30adbe972a4ec2d/" />
+  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/16c6fb8c20875f619733fa82f30adbe972a4ec2d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/16c6fb8c20875f619733fa82f30adbe972a4ec2d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://fediverse-governance.github.io/fediverse-governance.github.io/v/499ee7e5f4c6704e898dc562fee437667c923843/))
+([permalink](https://fediverse-governance.github.io/fediverse-governance.github.io/v/16c6fb8c20875f619733fa82f30adbe972a4ec2d/))
 was automatically generated
-from [fediverse-governance/fediverse-governance.github.io@499ee7e](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/499ee7e5f4c6704e898dc562fee437667c923843)
+from [fediverse-governance/fediverse-governance.github.io@16c6fb8](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/16c6fb8c20875f619733fa82f30adbe972a4ec2d)
 on August 16, 2024.
 </em></small>
 
@@ -80,8 +80,8 @@ on August 16, 2024.
 
 # **Findings Report: Governance on Fediverse Microblogging Servers**
 
-Erin Kissane and Darius Kazemi with the support of the Digital Infrastructure Insights Fund  
-August 13, 2024
+[Erin Kissane](https://erinkissane.com/) and [Darius Kazemi](https://tinysubversions.com/) with the support of the [Digital Infrastructure Insights Fund](https://infrastructureinsights.fund/)  
+August 16, 2024
 
 ## **How to Use These Findings** {#how-to-use-these-findings}
 
