@@ -46,7 +46,7 @@ DDoS
 defederate
 defederated
 defederating
-defederation
+Defederation
 defederations
 disjunctures
 DM
@@ -129,7 +129,7 @@ masse
 MAUs
 Merveilles
 Meta’s
-microblogging
+Microblogging
 minoritized
 mitigations
 Moritz
@@ -155,7 +155,7 @@ Patreon
 PeerTube
 PhotoDNA
 Piaille
-Pixelfed
+PixelFed
 Pleroma’s
 policymaking
 pre
