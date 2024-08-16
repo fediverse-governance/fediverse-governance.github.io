@@ -16,7 +16,7 @@ Bannable
 BDFL
 BDFN
 blocklist
-Blocklists
+blocklists
 Bluesky
 bocklists
 Bridgy
@@ -129,7 +129,7 @@ masse
 MAUs
 Merveilles
 Meta’s
-Microblogging
+microblogging
 minoritized
 mitigations
 Moritz
@@ -155,7 +155,7 @@ Patreon
 PeerTube
 PhotoDNA
 Piaille
-PixelFed
+Pixelfed
 Pleroma’s
 policymaking
 pre
