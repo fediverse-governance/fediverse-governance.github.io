@@ -146,7 +146,7 @@ OAuth
 OCF
 Oliphant
 onboarded
-Onboarding
+onboarding
 ophiocephalic
 orgs
 OStatus

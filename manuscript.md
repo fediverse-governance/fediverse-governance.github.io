@@ -21,8 +21,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-16" />
   <meta name="citation_publication_date" content="2024-08-16" />
   <meta property="article:published_time" content="2024-08-16" />
-  <meta name="dc.modified" content="2024-08-16T16:33:19+00:00" />
-  <meta property="article:modified_time" content="2024-08-16T16:33:19+00:00" />
+  <meta name="dc.modified" content="2024-08-16T17:31:23+00:00" />
+  <meta property="article:modified_time" content="2024-08-16T17:31:23+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -35,9 +35,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://fediverse-governance.github.io/fediverse-governance.github.io/" />
   <meta name="citation_pdf_url" content="https://fediverse-governance.github.io/fediverse-governance.github.io/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fediverse-governance.github.io/fediverse-governance.github.io/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/fediverse-governance.github.io/v/c32a854f0d4d73dc588a2934a836a0ccbae879dc/" />
-  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/c32a854f0d4d73dc588a2934a836a0ccbae879dc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/c32a854f0d4d73dc588a2934a836a0ccbae879dc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/fediverse-governance.github.io/v/935eebef8355124332bdc232c811564fc7cb3d5a/" />
+  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/935eebef8355124332bdc232c811564fc7cb3d5a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/935eebef8355124332bdc232c811564fc7cb3d5a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://fediverse-governance.github.io/fediverse-governance.github.io/v/c32a854f0d4d73dc588a2934a836a0ccbae879dc/))
+([permalink](https://fediverse-governance.github.io/fediverse-governance.github.io/v/935eebef8355124332bdc232c811564fc7cb3d5a/))
 was automatically generated
-from [fediverse-governance/fediverse-governance.github.io@c32a854](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/c32a854f0d4d73dc588a2934a836a0ccbae879dc)
+from [fediverse-governance/fediverse-governance.github.io@935eebe](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/935eebef8355124332bdc232c811564fc7cb3d5a)
 on August 16, 2024.
 </em></small>
 
@@ -814,6 +814,8 @@ Nathan Schneider of Social.coop highlighted the importance of establishing not o
 
 > *My lab built this tool [CommunityRule](https://communityrule.info). That's also about, “How can you make it easy and quick to have some rules?” And the idea is not that it's the greatest tool ever, but it's a plea just to say “Get something in place at the beginning so that you have a framework for improving it later. Just get something in place, please, now. Otherwise you'll be stuck with something that all the defaults will just tell you to do something that is, you know, it's just going to be…another weird fiefdom, right?”*
 
+### 
+
 ### **3\. Moderation basics** {#3.-moderation-basics}
 
 Most of the teams we spoke with who run small-to-medium–sized servers have three to five moderators working at varying levels of engagement. The teams divide their work in various ways: rotations, formal and informal shifts, by natural sleep schedule, and by language and topic. The everyday work of moderation is largely manageable for the teams we spoke with.
@@ -1243,8 +1245,6 @@ A server admin spoke frankly about the gap between their beliefs about how thing
 
 > *You get people who are really interested in power and anarchism and democracy for sort of... formalism’s sake. I believe firmly that structure is important, but I'm more interested in “How do we keep people's emotions healthy—acknowledge their struggles and diffuse tensions and produce a community which is healthy overall?” The really messy, anguishing work at the edges. The institutions that I've seen work really well--sometimes for decades--often they have a core group or one person who really sets the tone. And that has intrinsic scalability limits, right?*
 
-## 
-
 ### **2\. Specific structures and patterns** {#2.-specific-structures-and-patterns}
 
 #### 2.1 Membership discussions and meetings {#2.1-membership-discussions-and-meetings}
@@ -1276,8 +1276,6 @@ On their blog, the project’s leaders note that [they established the group to]
 * Communicate directly with users whose values align with those of the Commons
 
 * Provide space for the open exchange of knowledge and ideas between the Commons team and our users
-
-## 
 
 ### **3\. Paths for exploration** {#3.-paths-for-exploration}
 
@@ -1412,8 +1410,6 @@ To be clear, “Just add documentation” isn’t a magic cure for a lack of cla
 
 In this section, we’ll look at (de)federation decision-making and policies; for more tech-focused information on shared blocklists and similar tools, please see [1.6 Shared blocklists and shared blocks](\#1.6-shared-blocklists-and-shared-blocks). (The governance of *shared blocklists themselves* would be a worthy subject for future research, but was beyond the scope of our project.)
 
-## 
-
 ### **1\. Federation as remote moderation**  {#1.-federation-as-remote-moderation}
 
 Some server teams moderate members of other servers (“remote users” in Mastodon’s documentation) largely as though they were members of their own servers (“local users”), but many built-in local moderation tools like warning messages and account freezing aren’t available for remote users—and, of course, those remote users also haven’t agreed to and often aren’t even aware of the moderating server’s rules and principles, so it’s not a tidy parallel. 
@@ -1429,8 +1425,6 @@ These dynamics become especially complex when questions about defederating from 
 > *Or if it's a completely unmanaged lawless server, you know, servers that have spun up like Gab and Truth Social and stuff like that was just right on the blocklist. Basically, if it exists to be hostile to other humans, that does it. We deal with the content—my primary focus is, “Is the content problematic?” We will take the minimum action necessary to deal with the content. If the content is problematic because there is an entire server out there that is doing nothing but crypto spamming, we block the server.*
 
 But beyond these easy decisions, questions about when to limit or silence servers require significant moderator and administrator time and attention and reveal underlying but often unexpressed philosophical differences about the best way to think about—and act on—server operators’ responsibilities to their members.
-
-## 
 
 ### **2\. Whether and when to limit and silence other servers** {#2.-whether-and-when-to-limit-and-silence-other-servers}
 
@@ -1505,8 +1499,6 @@ A founder of a a cooperative server discussed their team’s active outreach pro
 Another admin consulted with their team and made their decision in stages and in response to new information about Threads’ approach:
 
 > *…the first statement was, as of now, it's not really a discussion we can have—as of now, there's not really enough info to make a decision. And when we had enough info to make a decision, we made an update to our statement, which was to block all of Threads. And we explained it because the main argument, the main explanation for that decision was that Facebook and Meta had a history of bad moderation. That we cannot trust them at first, but our trust is open to being gained by them by showing a lot of good moderation position, but it hasn't been the case so far. Right. Great. And I think people were mainly okay with the decision, but I saw someone complain.*
-
-## 
 
 ### **4\. The potential of federation policies** {#4.-the-potential-of-federation-policies}
 
