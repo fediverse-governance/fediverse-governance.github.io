@@ -46,7 +46,7 @@ DDoS
 defederate
 defederated
 defederating
-Defederation
+defederation
 defederations
 disjunctures
 DM
@@ -129,7 +129,7 @@ masse
 MAUs
 Merveilles
 Meta’s
-microblogging
+Microblogging
 minoritized
 mitigations
 Moritz

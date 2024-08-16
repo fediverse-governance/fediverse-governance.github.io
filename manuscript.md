@@ -21,8 +21,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-16" />
   <meta name="citation_publication_date" content="2024-08-16" />
   <meta property="article:published_time" content="2024-08-16" />
-  <meta name="dc.modified" content="2024-08-16T17:31:23+00:00" />
-  <meta property="article:modified_time" content="2024-08-16T17:31:23+00:00" />
+  <meta name="dc.modified" content="2024-08-16T17:41:56+00:00" />
+  <meta property="article:modified_time" content="2024-08-16T17:41:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -35,9 +35,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://fediverse-governance.github.io/fediverse-governance.github.io/" />
   <meta name="citation_pdf_url" content="https://fediverse-governance.github.io/fediverse-governance.github.io/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fediverse-governance.github.io/fediverse-governance.github.io/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/fediverse-governance.github.io/v/935eebef8355124332bdc232c811564fc7cb3d5a/" />
-  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/935eebef8355124332bdc232c811564fc7cb3d5a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/935eebef8355124332bdc232c811564fc7cb3d5a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/fediverse-governance.github.io/v/2f0935b96bd842ea004a64e863c507519d4a72b2/" />
+  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/2f0935b96bd842ea004a64e863c507519d4a72b2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/2f0935b96bd842ea004a64e863c507519d4a72b2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://fediverse-governance.github.io/fediverse-governance.github.io/v/935eebef8355124332bdc232c811564fc7cb3d5a/))
+([permalink](https://fediverse-governance.github.io/fediverse-governance.github.io/v/2f0935b96bd842ea004a64e863c507519d4a72b2/))
 was automatically generated
-from [fediverse-governance/fediverse-governance.github.io@935eebe](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/935eebef8355124332bdc232c811564fc7cb3d5a)
+from [fediverse-governance/fediverse-governance.github.io@2f0935b](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/2f0935b96bd842ea004a64e863c507519d4a72b2)
 on August 16, 2024.
 </em></small>
 
@@ -1082,9 +1082,7 @@ Moderation resources written or mentioned by server teams we spoke with, in addi
 * [IFTAS Connect](https://connect.iftas.org), a community for server teams from Independent Federated Trust & Safety  
 * IFTAS Moderation Handbook  
 * [Run Your Own Social](https://runyourown.social), a guide by Hometown maintainer and co-author of this report Darius Kazemi but mentioned by another admin we interviewed  
-* [Three Gates of Speech notes on a wiki](https://wiki.xxiivv.com/site/discourse.html) run by one of the owners of Fediverse server Merveilles.town. 
-
-# 
+* [Three Gates of Speech notes on a wiki](https://wiki.xxiivv.com/site/discourse.html) run by one of the owners of Fediverse server Merveilles.town
 
 ## **Section Three: Server Leadership** {#section-three:-server-leadership}
 
@@ -1517,8 +1515,6 @@ In hindsight, this gap shouldn’t be surprising—it makes sense that most team
 Taking those factors into consideration, we think the diverse and robust conversations and viewpoints on Threads federation could serve as a useful jumping-off point for server teams to even informally document their philosophies of federation and the policies that flow from those philosophies.
 
  In addition to simplifying at least some federation decisions, having those policies—and their implications for members—clearly explained would go a long way toward making it easier for Fediverse members to choose a server that meets their needs. Clear explanations might also serve as a way to introduce new members to the dynamics of inter-server relations and their importance to members’ experience of the Fediverse ecosystem.
-
-# 
 
 ## **Section Five: Tooling** {#section-five:-tooling}
 
