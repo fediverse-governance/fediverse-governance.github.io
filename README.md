@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/gh-pages) branch hosts the contents of this directory at <https://fediverse-governance.github.io/fediverse-governance.github.io/>.
-The permalink for this webpage version is <https://fediverse-governance.github.io/fediverse-governance.github.io/v/957ff8ebf04f1051aedb3fd17677e19ff2286b7a/>.
+The permalink for this webpage version is <https://fediverse-governance.github.io/fediverse-governance.github.io/v/a34fa975dc34ee87cee5aa26ec263ed00c6f9757/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://fediverse-governance.github.io/fediverse-governance.github.io/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`957ff8ebf04f1051aedb3fd17677e19ff2286b7a`](https://github.com/fediverse-governance/fediverse-governance.github.io/commit/957ff8ebf04f1051aedb3fd17677e19ff2286b7a).
+[`a34fa975dc34ee87cee5aa26ec263ed00c6f9757`](https://github.com/fediverse-governance/fediverse-governance.github.io/commit/a34fa975dc34ee87cee5aa26ec263ed00c6f9757).
