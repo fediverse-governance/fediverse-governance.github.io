@@ -181,7 +181,7 @@ signups
 Siino
 situ
 skillsets
-socio
+Socio
 spammy
 sponsorships
 StatusNet
