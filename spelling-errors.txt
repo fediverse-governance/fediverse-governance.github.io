@@ -46,7 +46,7 @@ DDoS
 defederate
 defederated
 defederating
-Defederation
+defederation
 defederations
 disjunctures
 DM
@@ -75,7 +75,7 @@ Flipboard
 fluencies
 FOIA
 framings
-Funders
+funders
 furries
 GDPR
 Gehl
@@ -129,7 +129,7 @@ masse
 MAUs
 Merveilles
 Meta’s
-microblogging
+Microblogging
 minoritized
 mitigations
 Moritz
@@ -155,7 +155,7 @@ Patreon
 PeerTube
 PhotoDNA
 Piaille
-Pixelfed
+PixelFed
 Pleroma’s
 policymaking
 pre
@@ -181,7 +181,7 @@ signups
 Siino
 situ
 skillsets
-Socio
+socio
 spammy
 sponsorships
 StatusNet
