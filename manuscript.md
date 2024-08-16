@@ -21,8 +21,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-16" />
   <meta name="citation_publication_date" content="2024-08-16" />
   <meta property="article:published_time" content="2024-08-16" />
-  <meta name="dc.modified" content="2024-08-16T04:40:42+00:00" />
-  <meta property="article:modified_time" content="2024-08-16T04:40:42+00:00" />
+  <meta name="dc.modified" content="2024-08-16T04:45:05+00:00" />
+  <meta property="article:modified_time" content="2024-08-16T04:45:05+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -35,9 +35,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://fediverse-governance.github.io/fediverse-governance.github.io/" />
   <meta name="citation_pdf_url" content="https://fediverse-governance.github.io/fediverse-governance.github.io/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fediverse-governance.github.io/fediverse-governance.github.io/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/fediverse-governance.github.io/v/a0440f3419fab3090e91136af8b704f79099befc/" />
-  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/a0440f3419fab3090e91136af8b704f79099befc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/a0440f3419fab3090e91136af8b704f79099befc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/fediverse-governance.github.io/v/47bfe2703b35a9263f4ec7e80307abb4f1c509e4/" />
+  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/47bfe2703b35a9263f4ec7e80307abb4f1c509e4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/fediverse-governance.github.io/v/47bfe2703b35a9263f4ec7e80307abb4f1c509e4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://fediverse-governance.github.io/fediverse-governance.github.io/v/a0440f3419fab3090e91136af8b704f79099befc/))
+([permalink](https://fediverse-governance.github.io/fediverse-governance.github.io/v/47bfe2703b35a9263f4ec7e80307abb4f1c509e4/))
 was automatically generated
-from [fediverse-governance/fediverse-governance.github.io@a0440f3](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/a0440f3419fab3090e91136af8b704f79099befc)
+from [fediverse-governance/fediverse-governance.github.io@47bfe27](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/47bfe2703b35a9263f4ec7e80307abb4f1c509e4)
 on August 16, 2024.
 </em></small>
 
@@ -998,21 +998,21 @@ Selected additional moderation-related documentation from the server teams we sp
 
 To state the obvious, all the server teams we interviewed have posted rules, and even the shortest rulesets cover foundational principles for civil discourse, many in the form of prohibitions against harassment, incitement of violence, and identity-based discrimination or abuse. According to one server admin 
 
-*We want to be as general and inclusive as we can. On that matter, we go as far as the Karl's Popper paradox of tolerance allows us, that means we won't allow racism and oppressive behaviors.*
+> *We want to be as general and inclusive as we can. On that matter, we go as far as the Karl's Popper paradox of tolerance allows us, that means we won't allow racism and oppressive behaviors.*
 
 Some servers emphasize positive norms, rather than prohibitions, most notably our topical server focused on subculture/kink, whose rules include this caution: “Be kind\!\[ …\] We're trans-inclusive, body-positive, and anti-racist here.” (These more positive statements are backed by more extensive conduct prohibitions elsewhere in the server’s documentation.)
 
 Some admins we spoke with drew an explicit connection between the specificity of their documentation and their desire to ease collaborative moderation. The founder of a regional server focused on Brazilian members related the process of trying to make group moderation easier by codifying more decisions as written rules outlining specific consequences for specific breaches, allowing individual moderators to act quickly: 
 
-*We tried very early on to come up with some more objective rules, in a way, so that…anyone could take either a moderation issue or even something they see on the timeline, and act on it.… You don't have to discuss for every specific situation. So our rules are a bit more like, “If you do this, there's that, and if you do that, there's that.”* 
+> *We tried very early on to come up with some more objective rules, in a way, so that…anyone could take either a moderation issue or even something they see on the timeline, and act on it.… You don't have to discuss for every specific situation. So our rules are a bit more like, “If you do this, there's that, and if you do that, there's that.”* 
 
 Another admin spoke about writing relatively voluminous docs in an iterative way over time, and with the explicit intent to make them useful to people running *other* Fediverse servers:
 
-*I do a lot of writing and I built up this sort of mod guideline omnibus. And then when we make policy decisions, often we'll write a blog post framing the question, we open up a discussion among the user base, and then moderators decide on formal policy. And I wanted our docs—like part of this was like reading Darius's work and thinking like, "wow, this is hard-earned expertise that was really formative to how I handle moderation"—I want those same resources to be available to others. And a number of other admins have messaged me and said, I really like \[your server\]’s documentation & policies, can we adapt these?*
+> *I do a lot of writing and I built up this sort of mod guideline omnibus. And then when we make policy decisions, often we'll write a blog post framing the question, we open up a discussion among the user base, and then moderators decide on formal policy. And I wanted our docs—like part of this was like reading Darius's work and thinking like, "wow, this is hard-earned expertise that was really formative to how I handle moderation"—I want those same resources to be available to others. And a number of other admins have messaged me and said, I really like \[your server\]’s documentation & policies, can we adapt these?*
 
 The same admin discussed their process for revising their policies over time by handling minor issues in an ad-hoc way until a pattern emerged, as when multiple reports popped up about a specific issue that was contentious within their community. 
 
-*We want to reason about policy from those specifics. So once we had like three or four reports on \[a controversial issue\], that's when we actually did the work of opening up a discussion, writing a policy, and announcing the change.*
+> *We want to reason about policy from those specifics. So once we had like three or four reports on \[a controversial issue\], that's when we actually did the work of opening up a discussion, writing a policy, and announcing the change.*
 
 Minor changes, they said, were fine to just *make*, but “The big stuff, the things that people would get banned for, or that would make a substantive difference in their experience, like Meta federation, those we try to take really carefully.” (We get into those more complex kinds of decisions in [4\. Complex moderation actions & decisions](\#4.-complex-moderation-actions-and-decisions).) This is in agreement with patterns we heard across most of our interviews—that minor rule changes generally required little to no consultation with larger groups, but that changes that felt more meaningful usually involved deeper discussions, often with a larger group, potentially including the entire membership.
 
@@ -1022,9 +1022,11 @@ Most teams we spoke with developed their rules, codes of conduct, and other mode
 
 Nathan Schneider of Social.coop highlighted the importance of establishing not only server rules, but also a rulemaking *process*, especially for server teams interested in collaborative or cooperative governance: 
 
-*…that's why I really rushed when the Musk thing happened, building out* [documentation for Social.coop](https://wiki.social.coop/wiki/Main\_Page)*, such as it is—which is not great, but I just wanted to make it more visible… “Here's the way that you can organize your server. If you want to start a server, if you want to get into this stuff, start thinking democratically from the beginning.”* 
+> *…that's why I really rushed when the Musk thing happened, building out [documentation for Social.coop](https://wiki.social.coop/wiki/Main\_Page), such as it is—which is not great, but I just wanted to make it more visible… “Here's the way that you can organize your server. If you want to start a server, if you want to get into this stuff, start thinking democratically from the beginning.”* 
 
-*My lab built this tool* [CommunityRule](https://communityrule.info)*. That's also about, “How can you make it easy and quick to have some rules?” And the idea is not that it's the greatest tool ever, but it's a plea just to say “Get something in place at the beginning so that you have a framework for improving it later. Just get something in place, please, now. Otherwise you'll be stuck with something that all the defaults will just tell you to do something that is, you know, it's just going to be…another weird fiefdom, right?”*
+> 
+
+> *My lab built this tool [CommunityRule](https://communityrule.info). That's also about, “How can you make it easy and quick to have some rules?” And the idea is not that it's the greatest tool ever, but it's a plea just to say “Get something in place at the beginning so that you have a framework for improving it later. Just get something in place, please, now. Otherwise you'll be stuck with something that all the defaults will just tell you to do something that is, you know, it's just going to be…another weird fiefdom, right?”*
 
 ## 
 
@@ -1032,56 +1034,64 @@ Nathan Schneider of Social.coop highlighted the importance of establishing not o
 
 Most of the teams we spoke with who run small-to-medium–sized servers have three to five moderators working at varying levels of engagement. The teams divide their work in various ways: rotations, formal and informal shifts, by natural sleep schedule, and by language and topic. The everyday work of moderation is largely manageable for the teams we spoke with.
 
-*We have an on-call rotation that's usually one week long. And during that week, we usually have one member who is a go-to person for moderation. So taking action on moderation, being in reports, just writing reports, potentially even on instances whenever a new fascist instance comes up and stays up, or some other clear case.*   
-*—Social.coop community and tech working group member*
+> *We have an on-call rotation that's usually one week long. And during that week, we usually have one member who is a go-to person for moderation. So taking action on moderation, being in reports, just writing reports, potentially even on instances whenever a new fascist instance comes up and stays up, or some other clear case.* 
 
-*We have three people helping with moderation nowadays. Well, technically four—we have one person that's basically doing everything emoji related, and basically only that.…we try to send messages through Mastodon to try to coordinate what we think, especially if it's a decision that's a bit controversial. But other than that, it's more whoever takes it first takes a decision.*  
-*—Masto.donte.com.br admin*
+> *—Social.coop community and tech working group member*
 
-*I think we're over-provisioned, which is maybe good because it means moderation work is light for most of our mods. We field roughly one to two reports per day.*   
-*—Woof.group admin*
+> *We have three people helping with moderation nowadays. Well, technically four—we have one person that's basically doing everything emoji related, and basically only that.…we try to send messages through Mastodon to try to coordinate what we think, especially if it's a decision that's a bit controversial. But other than that, it's more whoever takes it first takes a decision.*
+
+> *—Masto.donte.com.br admin*
+
+> *I think we're over-provisioned, which is maybe good because it means moderation work is light for most of our mods. We field roughly one to two reports per day.* 
+
+> *—Woof.group admin*
 
 #### 3.1 Everyday moderation tasks {#3.1-everyday-moderation-tasks}
 
 Simple spam reports came up a lot in our conversations, both in the context of discrete “spam waves” (which affected some servers quite a lot and others barely at all) and in a trickle of routine spammy behavior. As an admin on Tooting.ch, which serves primarily a Swiss regional membership, noted:
 
-*So what happens, pretty much \[with moderation\], it's members receive spam. They just report the message and we handle the reports.*
+> *So what happens, pretty much \[with moderation\], it's members receive spam. They just report the message and we handle the reports.*
 
 A moderator on SFBA.social, a larger regional server, noted that the bulk of their moderation reports are trivial or non-actionable— either spam reports or reports by an account not on their server, about an account *also* not on their server:
 
-*…the thing I do most is to suspend accounts, because they're spam. But, you know, that's just super obvious. It's like, “Yes, you're a spammer, goodbye.”* 
+> *…the thing I do most is to suspend accounts, because they're spam. But, you know, that's just super obvious. It's like, “Yes, you're a spammer, goodbye.”* 
 
-*…oftentimes the report is coming to us because one of our users was tagged in a thread, and it's somebody on an instance reporting somebody on a different instance, neither of which is related to us. Those are just closed, because there's pretty much nothing we can do about them. Occasionally \[in these situations\] we'll limit somebody's account if they're posting things that go against our guidelines, especially if they have followers on \[our server\]. We don't want to just cut them off completely, so we limit instead of suspending…we have once in a while suspended someone's account.* 
+> 
+
+> *…oftentimes the report is coming to us because one of our users was tagged in a thread, and it's somebody on an instance reporting somebody on a different instance, neither of which is related to us. Those are just closed, because there's pretty much nothing we can do about them. Occasionally \[in these situations\] we'll limit somebody's account if they're posting things that go against our guidelines, especially if they have followers on \[our server\]. We don't want to just cut them off completely, so we limit instead of suspending…we have once in a while suspended someone's account.* 
 
 A moderator on Wandering Shop, which centers on fantasy and science fiction fans and writers, related a similarly tolerable workload for basic moderation actions:
 
-*We get zero to, you know, if something's going on out there, maybe four or five reports in a typical day, a lot of them are easily dealt with. We have those floods that go on every now and then when a spammer gets loose on mastodon.social, just because we've got to shut down a whole bunch of things just to keep them from nagging our users. But it's not hard. Very little of it has been urgent or problematic material, you know. So we've been lucky in that we don't tend to be a target.*
+> *We get zero to, you know, if something's going on out there, maybe four or five reports in a typical day, a lot of them are easily dealt with. We have those floods that go on every now and then when a spammer gets loose on mastodon.social, just because we've got to shut down a whole bunch of things just to keep them from nagging our users. But it's not hard. Very little of it has been urgent or problematic material, you know. So we've been lucky in that we don't tend to be a target.*
 
 An admin on Woof.group, a server for the queer leather community, noted that reports from within its membership about behavior (besides spam) on other servers were rarer and often—but not always—required more time and consideration to understand and process:
 
-*Reports against other instances are less frequent, but more interesting or more demanding. And those come in different flavors. Sometimes it's like, “I don't like that thing and I'm gonna file a mod report about it.” And then we just have to look at it and go like, “Well, agreed, what they're doing is maybe distasteful. Does it rise to the level of harassment? Does it require moderator interaction? Should it be us or should it be the remote mods?" Those are tougher questions. And then on occasion, we get easy remote mod problems, which is like, “Somebody sent me an image of a gas chamber saying gays die,” and like… easy call, we got your back.*
+> *Reports against other instances are less frequent, but more interesting or more demanding. And those come in different flavors. Sometimes it's like, “I don't like that thing and I'm gonna file a mod report about it.” And then we just have to look at it and go like, “Well, agreed, what they're doing is maybe distasteful. Does it rise to the level of harassment? Does it require moderator interaction? Should it be us or should it be the remote mods?" Those are tougher questions. And then on occasion, we get easy remote mod problems, which is like, “Somebody sent me an image of a gas chamber saying gays die,” and like… easy call, we got your back.*
 
 #### 3.2 Variations across topics and by individual user {#3.2-variations-across-topics-and-by-individual-user}
 
 For Woof.group, the majority of inbound reports are complaints from members of other servers, often about behavior that is explicitly permitted on their server. According to one admin of that server:
 
-*I would say probably like 80% come from other servers. And they're typically people complaining about content warning issues.…I don't have the numbers in front of me, but I'd guess we act on roughly one in five. The other four out of five are like, “Look, we allow butts here. That's okay.”*
+> *I would say probably like 80% come from other servers. And they're typically people complaining about content warning issues.…I don't have the numbers in front of me, but I'd guess we act on roughly one in five. The other four out of five are like, “Look, we allow butts here. That's okay.”*
 
 Moderators and admins on other servers also noted that certain individual members—and certain topics in particular—attract higher volumes of inbound reports for behaviors that don’t break their rules. As one moderator put it, “…we have some folks on the platform who are very intense in terms of moderation needs.” 
 
 The Gaza-Israel conflict specifically came up repeatedly across interviews as a subject that attracts a high volume of reports, which in turn require both simple and complex decision-making by server teams. An IFTAS advisor researching content moderation told us that:
 
-*\[T\]he Fediverse really means different answers for different people—it really is about diversity, even stuff I don't agree with. \[...\] And then with the Israel-Palestine \[issue\], it's different because that has boiled over into a lot of malicious reporting. And so it adds a lot of day-to-day stress for moderators.*
+> *\[T\]he Fediverse really means different answers for different people—it really is about diversity, even stuff I don't agree with. \[...\] And then with the Israel-Palestine \[issue\], it's different because that has boiled over into a lot of malicious reporting. And so it adds a lot of day-to-day stress for moderators.*
 
 Several of the moderators and admins we spoke with mentioned the conflict: 
 
-*Certainly, since last October, I had no idea I'd be spending so much time adjudicating antisemitism. And not just antisemitism, but antisemitism in the context of personal conversations, which are being reported now, which wasn't really something that was a thing maybe two years ago. Like…I don't like what this guy said. So, you know, they open a report to get a user punished, which was not really what was going on, and not what we do.* 
+> *Certainly, since last October, I had no idea I'd be spending so much time adjudicating antisemitism. And not just antisemitism, but antisemitism in the context of personal conversations, which are being reported now, which wasn't really something that was a thing maybe two years ago. Like…I don't like what this guy said. So, you know, they open a report to get a user punished, which was not really what was going on, and not what we do.* 
 
-*So that's been challenging, because there are really problematic things out there going on. And then there are some others that are like—you know, I'm a little bit hard-nosed about going out and picking a fight on a public timeline, and then running back to me to do something about it. It’s not what the moderator’s for.*
+> 
+
+> *So that's been challenging, because there are really problematic things out there going on. And then there are some others that are like—you know, I'm a little bit hard-nosed about going out and picking a fight on a public timeline, and then running back to me to do something about it. It’s not what the moderator’s for.*
 
 While a team member on a regional server spoke about the conflict as a source of increased moderation tension and necessary care:
 
-*The Israeli-Palestinian conflict has been a huge increase in moderation pressure. Both the heatedness of the reports we were getting went way through the roof and the delicacy with which we felt like we needed to approach moderation issues went up.*  
+> *The Israeli-Palestinian conflict has been a huge increase in moderation pressure. Both the heatedness of the reports we were getting went way through the roof and the delicacy with which we felt like we needed to approach moderation issues went up.*
+
    
 This brings us to the next set of moderation decisions—the complicated, messy, and often subtler kind.
 
@@ -1089,11 +1099,13 @@ This brings us to the next set of moderation decisions—the complicated, messy,
 
 ### **4\. Complex moderation actions and decisions** {#4.-complex-moderation-actions-and-decisions}
 
-*The question you have to ask is, of course, how much of that time are you "working" and how much are you emotionally fretting over something.*  
-*—Woof.group admin*
+> *The question you have to ask is, of course, how much of that time are you "working" and how much are you emotionally fretting over something.*
 
-*Just—when you have to make public statements or make big decisions, for example, the arrival of Threads is and was and still is kind of a big debate. You can receive some public pressure urging you to act and not to act.*  
-*—Piaille.fr admin* 
+> *—Woof.group admin*
+
+> *Just—when you have to make public statements or make big decisions, for example, the arrival of Threads is and was and still is kind of a big debate. You can receive some public pressure urging you to act and not to act.*
+
+> *—Piaille.fr admin* 
 
 In nearly every interview with moderators, our interviewees called out special classes of decisions that require more—and sometimes much more—time, attention, energy, and consultation than everyday mod and admin concerns. 
 
@@ -1103,31 +1115,39 @@ Along with contentious Fediverse-wide considerations about things like Threads f
 
 When it comes to moderating the behavior of their own members, the server teams we spoke with vary widely in how much they try to shape behaviors and norms on their servers. Several maintain a light-moderation stance, taking action only on posts that obviously break the server’s stated—sometimes largely legally mandated—rules. Other teams, though, make considerable efforts to socialize members toward more harmonious behavior in the community. One admin in the latter camp put it this way:
 
-*We do a lot of soft guidance. Like I don't want to step in and take aggressive moderator action if a conversation will do. And a lot of times just an email—sometimes a scary one, but often gentle is enough—to be like, “Hey, your interactions with this group here or the way you talk to that server over there have made people uncomfortable. Keep an eye on these things, please, going forward.” And either they drift away—they decide that Mastodon isn't for them entirely or the server’s not for them—or they manage to get the behavior in check and become more friendly members of the community. Vibes are surprisingly important to a small community and we try not to be overly legalistic about things.*
+> *We do a lot of soft guidance. Like I don't want to step in and take aggressive moderator action if a conversation will do. And a lot of times just an email—sometimes a scary one, but often gentle is enough—to be like, “Hey, your interactions with this group here or the way you talk to that server over there have made people uncomfortable. Keep an eye on these things, please, going forward.” And either they drift away—they decide that Mastodon isn't for them entirely or the server’s not for them—or they manage to get the behavior in check and become more friendly members of the community. Vibes are surprisingly important to a small community and we try not to be overly legalistic about things.*
 
-*For instance, someone might join and pose as a straight, dominant man soliciting gifts from "inferior" gay men. This is a real, consensual fetish for a good number of people. But over time it becomes clear that the account is either a real straight man with very homophobic opinions, or functionally indistinguishable from it. We might step in to have a conversation with the user: we're not here for real homophobia, and if it's play, we need to find a way to make that subtext legible to readers. There's a fine difference, and mods need to be fluent in the subculture to parse it.*
+> 
+
+> *For instance, someone might join and pose as a straight, dominant man soliciting gifts from "inferior" gay men. This is a real, consensual fetish for a good number of people. But over time it becomes clear that the account is either a real straight man with very homophobic opinions, or functionally indistinguishable from it. We might step in to have a conversation with the user: we're not here for real homophobia, and if it's play, we need to find a way to make that subtext legible to readers. There's a fine difference, and mods need to be fluent in the subculture to parse it.*
 
 Another admin on a small server takes a similar approach:
 
-*We also do a bunch of that \[moderation\] work just by challenging people. Not you know, mean—like, “Hey, this post sucks” type of way, but like…“Why do you think that?”* 
+> *We also do a bunch of that \[moderation\] work just by challenging people. Not you know, mean—like, “Hey, this post sucks” type of way, but like…“Why do you think that?”* 
 
-*…a lot of times when people are having a terrible opinion online, I feel like one of the reasons people do that is because they think most people will agree with them, and that's why they post it. And then it turns out that they post their terrible opinion, and I have a whole bunch of people who don't think that's a good opinion. So, they don't feel very welcomed, and then they stop sharing that terrible opinion so much. And maybe they never log back on again, and I don't care. But formal moderation…of the local issues is—strangely, I guess, blessedly—it's not actually that bad, once you've done enough work to select people that do share your values up front.*
+> 
+
+> *…a lot of times when people are having a terrible opinion online, I feel like one of the reasons people do that is because they think most people will agree with them, and that's why they post it. And then it turns out that they post their terrible opinion, and I have a whole bunch of people who don't think that's a good opinion. So, they don't feel very welcomed, and then they stop sharing that terrible opinion so much. And maybe they never log back on again, and I don't care. But formal moderation…of the local issues is—strangely, I guess, blessedly—it's not actually that bad, once you've done enough work to select people that do share your values up front.*
 
 The same admin expanded on that more high-touch method elsewhere in their interview:
 
-*I'm not sure that I've, like, fully actually clicked the suspend account button on somebody, but I have had conversations with people where they ended up clicking the “delete account” button, and that was their choice.* 
+> *I'm not sure that I've, like, fully actually clicked the suspend account button on somebody, but I have had conversations with people where they ended up clicking the “delete account” button, and that was their choice.* 
 
-*Coaching is…putting your mod hat on and saying “What you did was not cool. Please don't do that again.” But in many more words, and with sensitivity to the specific stuff being issued…because basically, I care about all of the people involved… One of the things that helps with having three mods is that we'll have different levels of emotional attachment to the community member involved, and sometimes you want to have a lot of emotional attachment, and sometimes you want to have a more objective third party do the conversation.*
+> 
+
+> *Coaching is…putting your mod hat on and saying “What you did was not cool. Please don't do that again.” But in many more words, and with sensitivity to the specific stuff being issued…because basically, I care about all of the people involved… One of the things that helps with having three mods is that we'll have different levels of emotional attachment to the community member involved, and sometimes you want to have a lot of emotional attachment, and sometimes you want to have a more objective third party do the conversation.*
 
 The lead administrator of Hachyderm, a tech-focused server run as a project of a non-profit foundation, discussed one of their team’s approaches to handling norm-setting and maintenance on the server in ways that actively engage the members who have breached server rules and expectations:
 
-*…one of the things that we do, I'm not going to say often, but often enough that I think that it's known about, and we definitely wrote a blog post about it last year, is the freeze pattern that we do. …if you've done something that we feel warrants our attention, we want you to undo that thing. So we notoriously don't delete posts, typically. Because if someone needs a post deleted, their account's going to be frozen and they're going to delete that post as a condition of being unfrozen, right? We try and make it more active so that we're not just this passive kind of cleanup crew running through the instance.*
+> *…one of the things that we do, I'm not going to say often, but often enough that I think that it's known about, and we definitely wrote a blog post about it last year, is the freeze pattern that we do. …if you've done something that we feel warrants our attention, we want you to undo that thing. So we notoriously don't delete posts, typically. Because if someone needs a post deleted, their account's going to be frozen and they're going to delete that post as a condition of being unfrozen, right? We try and make it more active so that we're not just this passive kind of cleanup crew running through the instance.*
 
 The same administrator noted that the most obviously heated Fediverse issues are rarely the most challenging for their moderators to work through, compared to subtler conflicts between social norms:
 
-*… most of the most difficult moderation issues are not the ones that everyone likes to have hot takes about because, funnily enough, easy problems to solve are easy, and you just block people or servers as the case may be.* 
+> *… most of the most difficult moderation issues are not the ones that everyone likes to have hot takes about because, funnily enough, easy problems to solve are easy, and you just block people or servers as the case may be.* 
 
-*It's the human conflict stuff that I wanted to make sure \[new mods\] had a good grip on because sometimes you have people, especially from different backgrounds, where you have them getting into states of genuine conflict, right? You have very American predominantly views of the world coming off of \[the server\], but that's not necessarily global or correct or exclusive, right? And there are times when they might run into other people's perspectives on anything. And of course we do have users from Europe and so forth on the server as well, and we do have them represented on our moderation team, but just to give an easy example.*
+> 
+
+> *It's the human conflict stuff that I wanted to make sure \[new mods\] had a good grip on because sometimes you have people, especially from different backgrounds, where you have them getting into states of genuine conflict, right? You have very American predominantly views of the world coming off of \[the server\], but that's not necessarily global or correct or exclusive, right? And there are times when they might run into other people's perspectives on anything. And of course we do have users from Europe and so forth on the server as well, and we do have them represented on our moderation team, but just to give an easy example.*
 
 #### 4.2 Collaborative decision-making {#4.2-collaborative-decision-making}
 
@@ -1135,26 +1155,36 @@ We asked a lot of questions about how moderators and admins make decisions, eith
 
 A Woof.group admin put it this way:
 
-*I try to get consensus on anything that is out of the ordinary. So I'll often pose a question to the mod group like, “Hey, what do you guys think about this report? Leaning this way, leaning that way?” And we'll try to talk it through a little bit. And anybody who happens to be available to contribute their expertise or thoughts can come.… I take part in most of the moderation decisions as well. I'm running Woof.group as a BDFL sort of situation, but I try and solicit a ton of input and consensus and will often change my own initial position to align with the mod group.*
+> *I try to get consensus on anything that is out of the ordinary. So I'll often pose a question to the mod group like, “Hey, what do you guys think about this report? Leaning this way, leaning that way?” And we'll try to talk it through a little bit. And anybody who happens to be available to contribute their expertise or thoughts can come.… I take part in most of the moderation decisions as well. I'm running Woof.group as a BDFL sort of situation, but I try and solicit a ton of input and consensus and will often change my own initial position to align with the mod group.*
 
-*…for big serious questions, things like Meta federation or Bluesky federation, you know, it involves a lot of research: looking at the technical aspects of Mastodon and how federation works, asking what-ifs,*   
-*consulting with peers, writing up a policy position, soliciting feedback from membership. I can easily burn 40 hours on an issue. And I try to do that maybe five times a year for big stuff. But I think it's worth it. Policy is never going to be 100% popular, but I think we have community buy-in because of our process of writing things up carefully and soliciting feedback.*  
+> 
+
+> *…for big serious questions, things like Meta federation or Bluesky federation, you know, it involves a lot of research: looking at the technical aspects of Mastodon and how federation works, asking what-ifs, consulting with peers, writing up a policy position, soliciting feedback from membership. I can easily burn 40 hours on an issue. And I try to do that maybe five times a year for big stuff. But I think it's worth it. Policy is never going to be 100% popular, but I think we have community buy-in because of our process of writing things up carefully and soliciting feedback.*
+
    
 An admin on hcommons.social, a project of Knowledge Commons (formerly Humanities Commons) at Michigan State University, spoke about indications that an issue required wider and more substantial discussion:
 
-*The more there are questions about reports that we are uncertain how to respond to, we have internal conversations among the team, just to say, “This is what I'm thinking, you know, am I reading this right? Do you see an issue here that I'm not seeing?” So we'll have those conversations.* 
+> *The more there are questions about reports that we are uncertain how to respond to, we have internal conversations among the team, just to say, “This is what I'm thinking, you know, am I reading this right? Do you see an issue here that I'm not seeing?” So we'll have those conversations.* 
 
-*But where things cross the line over into feeling like we're either going to set a precedent, or this requires some kind of policy. First of all, we developed a Code of Conduct before we launched the instance, to make sure that we had some baseline agreements with the folks who were coming to us, that they were going to adhere to this set of guidelines for their interactions on the network. So we have that to fall back on to say, you know, when something is in violation of those principles, and it's clear.* 
+> 
 
-*But where we have cases that don't, that aren't really directly addressed in those guidelines, but feel like we need some sort of community temperature-taking, or some sort of permission from the community to handle in a particular way. We'll go to the community and post as an instance only post saying, “\[server name\], we got a question, how should we handle this kind of thing?”*
+> *But where things cross the line over into feeling like we're either going to set a precedent, or this requires some kind of policy. First of all, we developed a Code of Conduct before we launched the instance, to make sure that we had some baseline agreements with the folks who were coming to us, that they were going to adhere to this set of guidelines for their interactions on the network. So we have that to fall back on to say, you know, when something is in violation of those principles, and it's clear.* 
+
+> 
+
+> *But where we have cases that don't, that aren't really directly addressed in those guidelines, but feel like we need some sort of community temperature-taking, or some sort of permission from the community to handle in a particular way. We'll go to the community and post as an instance only post saying, “\[server name\], we got a question, how should we handle this kind of thing?”*
 
 A moderator on a cooperative server brought up a series of incidents surrounding reports about a small number of members posting messages repeatedly flagged as misinformation. 
 
-*…it was quite intensive work, essentially because we had a few members in \[the server\] who were being reported from the outside.… They tend to be the most interesting cases because, you know, sort of because of our approval process and so on, the vast majority, we don't get a lot of bad actors, clearly bad actors, you know, like spammers or something. It's too much work to sign up, essentially.*
+> *…it was quite intensive work, essentially because we had a few members in \[the server\] who were being reported from the outside.… They tend to be the most interesting cases because, you know, sort of because of our approval process and so on, the vast majority, we don't get a lot of bad actors, clearly bad actors, you know, like spammers or something. It's too much work to sign up, essentially.*
 
-*So when you do get a report and it's, you know, has substance, it's quite tricky because these are usually, really members of the community. So we ended up having like—and I didn't do a lot of this work, like \[moderator name\], who is amazing, reaching out to the people and saying, “Okay, so we're getting reports on you, you know, saying things which people consider misinformation.”* 
+> 
 
-*So this, after discussing…it was like, maybe we need to update the Code of Conduct, but what exactly can we put there? Because if you say, “You cannot deny, you know, vaccines,” this would completely alienate these people, right? \[The membership was\] actively opposed to updating and saying, “We cannot talk about the \[subject\],” or…whatever keyword you want to say.* 
+> *So when you do get a report and it's, you know, has substance, it's quite tricky because these are usually, really members of the community. So we ended up having like—and I didn't do a lot of this work, like \[moderator name\], who is amazing, reaching out to the people and saying, “Okay, so we're getting reports on you, you know, saying things which people consider misinformation.”* 
+
+> 
+
+> *So this, after discussing…it was like, maybe we need to update the Code of Conduct, but what exactly can we put there? Because if you say, “You cannot deny, you know, vaccines,” this would completely alienate these people, right? \[The membership was\] actively opposed to updating and saying, “We cannot talk about the \[subject\],” or…whatever keyword you want to say.* 
 
 In that instance, a large-group discussion resulted in a compromise position that permitted members to post controversial/gray area messages about aspects of the controversial topic, but required the use of content warnings to contextualize them. The moderator we spoke with recalled that this was acceptable to some people who were posting the messages flagged for misinformation, but not for others, who moved on from the server.
 

@@ -16,7 +16,7 @@ Bannable
 BDFL
 BDFN
 blocklist
-blocklists
+Blocklists
 Bluesky
 bocklists
 Bridgy
@@ -46,7 +46,7 @@ DDoS
 defederate
 defederated
 defederating
-Defederation
+defederation
 defederations
 disjunctures
 DM
@@ -129,7 +129,7 @@ masse
 MAUs
 Merveilles
 Meta’s
-Microblogging
+microblogging
 minoritized
 mitigations
 Moritz
@@ -155,7 +155,7 @@ Patreon
 PeerTube
 PhotoDNA
 Piaille
-PixelFed
+Pixelfed
 Pleroma’s
 policymaking
 pre
@@ -181,7 +181,7 @@ signups
 Siino
 situ
 skillsets
-socio
+Socio
 spammy
 sponsorships
 StatusNet
