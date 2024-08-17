@@ -16,7 +16,7 @@ Bannable
 BDFL
 BDFN
 blocklist
-Blocklists
+blocklists
 Bluesky
 bocklists
 Bridgy
@@ -75,7 +75,7 @@ Flipboard
 fluencies
 FOIA
 framings
-funders
+Funders
 furries
 GDPR
 Gehl
@@ -129,7 +129,7 @@ masse
 MAUs
 Merveilles
 Meta’s
-microblogging
+Microblogging
 minoritized
 mitigations
 Moritz
@@ -146,7 +146,7 @@ OAuth
 OCF
 Oliphant
 onboarded
-onboarding
+Onboarding
 ophiocephalic
 orgs
 OStatus
@@ -155,7 +155,7 @@ Patreon
 PeerTube
 PhotoDNA
 Piaille
-PixelFed
+Pixelfed
 Pleroma’s
 policymaking
 pre
@@ -181,7 +181,7 @@ signups
 Siino
 situ
 skillsets
-Socio
+socio
 spammy
 sponsorships
 StatusNet
