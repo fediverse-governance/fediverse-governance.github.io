@@ -46,7 +46,7 @@ DDoS
 defederate
 defederated
 defederating
-Defederation
+defederation
 defederations
 disjunctures
 DM
@@ -181,7 +181,7 @@ signups
 Siino
 situ
 skillsets
-socio
+Socio
 spammy
 sponsorships
 StatusNet
