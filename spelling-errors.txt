@@ -146,7 +146,7 @@ OAuth
 OCF
 Oliphant
 onboarded
-Onboarding
+onboarding
 ophiocephalic
 orgs
 OStatus
@@ -155,7 +155,7 @@ Patreon
 PeerTube
 PhotoDNA
 Piaille
-PixelFed
+Pixelfed
 Pleroma’s
 policymaking
 pre
@@ -181,7 +181,7 @@ signups
 Siino
 situ
 skillsets
-Socio
+socio
 spammy
 sponsorships
 StatusNet
