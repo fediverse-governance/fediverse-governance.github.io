@@ -64,7 +64,7 @@ Fedi
 FediBlock
 FediDB
 fedifams
-Fediverse
+fediverse
 Fediverse’s
 femmes
 fi
@@ -181,7 +181,7 @@ signups
 Siino
 situ
 skillsets
-socio
+Socio
 spammy
 sponsorships
 StatusNet
