@@ -6,4 +6,9 @@ keywords:
   - governance
   - moderation
 lang: en-US
+authors:
+  -
+    name: Erin Kissane
+  -
+    name: Darius Kazemi
 abstract: "Research report on Fediverse microblogging server governance: risks and mitigations, moderation, server leadership, federated diplomacy, and governance tooling."
