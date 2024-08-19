@@ -16,7 +16,7 @@ Bannable
 BDFL
 BDFN
 blocklist
-Blocklists
+blocklists
 Bluesky
 bocklists
 Bridgy
@@ -145,8 +145,7 @@ OAuth
 OCF
 Oliphant
 onboarded
-Onboarding
-ophiocephalic
+onboarding
 orgs
 OStatus
 overextension
@@ -180,7 +179,7 @@ signups
 Siino
 situ
 skillsets
-socio
+Socio
 spammy
 sponsorships
 StatusNet

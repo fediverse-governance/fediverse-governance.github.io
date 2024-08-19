@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-20" />
   <meta name="citation_publication_date" content="2024-08-20" />
   <meta property="article:published_time" content="2024-08-20" />
-  <meta name="dc.modified" content="2024-08-19T20:24:48+00:00" />
-  <meta property="article:modified_time" content="2024-08-19T20:24:48+00:00" />
+  <meta name="dc.modified" content="2024-08-19T20:31:00+00:00" />
+  <meta property="article:modified_time" content="2024-08-19T20:31:00+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,13 +39,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://fediverse-governance.github.io/" />
   <meta name="citation_pdf_url" content="https://fediverse-governance.github.io/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fediverse-governance.github.io/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/v/1390d2fcad238d4aa8ec5aaee6379b213117e492/" />
-  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/v/1390d2fcad238d4aa8ec5aaee6379b213117e492/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/v/1390d2fcad238d4aa8ec5aaee6379b213117e492/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/v/4af9212cdd1386fba83898643596869e04b1a3d8/" />
+  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/v/4af9212cdd1386fba83898643596869e04b1a3d8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/v/4af9212cdd1386fba83898643596869e04b1a3d8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/1390d2fcad238d4aa8ec5aaee6379b213117e492/content/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/1390d2fcad238d4aa8ec5aaee6379b213117e492/content/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/4af9212cdd1386fba83898643596869e04b1a3d8/content/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/4af9212cdd1386fba83898643596869e04b1a3d8/content/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://fediverse-governance.github.io/v/1390d2fcad238d4aa8ec5aaee6379b213117e492/))
+([permalink](https://fediverse-governance.github.io/v/4af9212cdd1386fba83898643596869e04b1a3d8/))
 was automatically generated
-from [fediverse-governance/fediverse-governance.github.io@1390d2f](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/1390d2fcad238d4aa8ec5aaee6379b213117e492)
+from [fediverse-governance/fediverse-governance.github.io@4af9212](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/4af9212cdd1386fba83898643596869e04b1a3d8)
 on August 19, 2024.
 </em></small>
 
@@ -560,7 +560,7 @@ These are actions server teams—especially teams considering setting up a new s
 
 * Build a server team—which might include server admins, moderators, board members, advisory council members, and other roles—with broad representation from the community or communities the server is intended to host. ([Section Two: Moderation](\#section-two:-moderation) and [Section Three: Server Leadership](\#section-three:-server-leadership))
 
-* Create a generic, well-publicized, two-factor-secured user-facing moderation account like “@moderators@example.social” that the entire server team has access to, and establish rules for managing DMs from that account. (In Mastodon, this would necessitate also having shared email for moderators if two-factor authentication is enabled as recommended.) ([Section Two: Moderation](\#section-two:-moderation), [Section Five: Tooling](\#section-five:-tooling))
+* Create a generic, well-publicized, two-factor-secured user-facing moderation account like `@moderators@example.social` that the entire server team has access to, and establish rules for managing DMs from that account. (In Mastodon, this would necessitate also having shared email for moderators if two-factor authentication is enabled as recommended.) ([Section Two: Moderation](\#section-two:-moderation), [Section Five: Tooling](\#section-five:-tooling))
 
 * Document plentifully and in ways that make it easy to understand the (desired) character of the server, the server team’s sense of what its responsibilities are, and the processes and guidelines in place for content and member moderation, inter-server governance, and governance of the team itself. ([Section Two: Moderation](\#section-two:-moderation), [Section Three: Server Leadership](\#section-three:-server-leadership), [Section Four: Federated Diplomacy](\#section-four:-federated-diplomacy))
 
@@ -1359,7 +1359,7 @@ One founding admin of a server for French speakers spoke about their desire to g
 
 An advisor to IFTAS spoke with us about the potential for connections between servers and teams that might serve as formal or informal meta-institutions: 
 
-> *And from a governance perspective, from across server things, I really feel like there's this missing level of between the federation of everything, everybody, and the individual instance, there's this sort of collection level, in Run Your Own Social, you referred to it as a “neighborhood,” Darius. And yeah, there's Kat \[Marchán\] calls them the “caracoles,” @ophiocephalic’s “fedifams,” or the bubbles that are emerging, all in this. And I think that's another place for, for very interesting approaches to governance. It's like, the two most worked out things I saw have both come from an anarchist perspective, which is interesting, because it's a chance for radical democracy with some structure to it.*
+> *And from a governance perspective, from across server things, I really feel like there's this missing level of between the federation of everything, everybody, and the individual instance, there's this sort of collection level, in Run Your Own Social, you referred to it as a “neighborhood,” Darius. And yeah, there's Kat \[Marchán\] calls them the “[caracoles](https://toot.cat/@zkat/110810390507239555),” `@ophiocephalic`’s “[fedifams](https://kolektiva.social/@ophiocephalic/110793535160280425),” or the bubbles that are emerging, all in this. And I think that's another place for, for very interesting approaches to governance. It's like, the two most worked out things I saw have both come from an anarchist perspective, which is interesting, because it's a chance for radical democracy with some structure to it.*
 
 #### 3.3 Making pathways to greater participation {#3.3-making-pathways-to-greater-participation}
 
@@ -1650,7 +1650,7 @@ Some servers find the default tools for account registration limiting. We descri
 
 #### 1.8 User-facing generic moderation account {#1.8-user-facing-generic-moderation-account}
 
-On all but the smallest servers, moderators consistently employ a pattern where they create a generically-named account like @mods@example.social. This account becomes an anonymizing front-end for moderation teams which allows them to communicate with users in such a way that communications come directly from the team rather than falling on a particular moderator. This enables moderators to hand over issues to one another in a way that is seamless to the end user.
+On all but the smallest servers, moderators consistently employ a pattern where they create a generically-named account like `@mods@example.social`. This account becomes an anonymizing front-end for moderation teams which allows them to communicate with users in such a way that communications come directly from the team rather than falling on a particular moderator. This enables moderators to hand over issues to one another in a way that is seamless to the end user.
 
 The anonymizing effect is also an important safety feature. One veteran moderator with experience on Discord and Mastodon noted:
 
