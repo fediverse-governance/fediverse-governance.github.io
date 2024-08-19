@@ -128,7 +128,7 @@ masse
 MAUs
 Merveilles
 Meta’s
-Microblogging
+microblogging
 minoritized
 mitigations
 Moritz
@@ -145,7 +145,7 @@ OAuth
 OCF
 Oliphant
 onboarded
-onboarding
+Onboarding
 orgs
 OStatus
 overextension
@@ -153,7 +153,7 @@ Patreon
 PeerTube
 PhotoDNA
 Piaille
-Pixelfed
+PixelFed
 Pleroma’s
 policymaking
 pre
@@ -179,7 +179,7 @@ signups
 Siino
 situ
 skillsets
-Socio
+socio
 spammy
 sponsorships
 StatusNet

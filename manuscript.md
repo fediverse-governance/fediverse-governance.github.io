@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-20" />
   <meta name="citation_publication_date" content="2024-08-20" />
   <meta property="article:published_time" content="2024-08-20" />
-  <meta name="dc.modified" content="2024-08-19T20:31:00+00:00" />
-  <meta property="article:modified_time" content="2024-08-19T20:31:00+00:00" />
+  <meta name="dc.modified" content="2024-08-19T20:35:03+00:00" />
+  <meta property="article:modified_time" content="2024-08-19T20:35:03+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,13 +39,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://fediverse-governance.github.io/" />
   <meta name="citation_pdf_url" content="https://fediverse-governance.github.io/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fediverse-governance.github.io/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/v/4af9212cdd1386fba83898643596869e04b1a3d8/" />
-  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/v/4af9212cdd1386fba83898643596869e04b1a3d8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/v/4af9212cdd1386fba83898643596869e04b1a3d8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/v/e5a67d66cba20963dce465e0ea6489e2ad502b98/" />
+  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/v/e5a67d66cba20963dce465e0ea6489e2ad502b98/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/v/e5a67d66cba20963dce465e0ea6489e2ad502b98/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/4af9212cdd1386fba83898643596869e04b1a3d8/content/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/4af9212cdd1386fba83898643596869e04b1a3d8/content/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/e5a67d66cba20963dce465e0ea6489e2ad502b98/content/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/e5a67d66cba20963dce465e0ea6489e2ad502b98/content/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://fediverse-governance.github.io/v/4af9212cdd1386fba83898643596869e04b1a3d8/))
+([permalink](https://fediverse-governance.github.io/v/e5a67d66cba20963dce465e0ea6489e2ad502b98/))
 was automatically generated
-from [fediverse-governance/fediverse-governance.github.io@4af9212](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/4af9212cdd1386fba83898643596869e04b1a3d8)
+from [fediverse-governance/fediverse-governance.github.io@e5a67d6](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/e5a67d66cba20963dce465e0ea6489e2ad502b98)
 on August 19, 2024.
 </em></small>
 
@@ -1632,7 +1632,7 @@ The utility of blocklists in the first few months of a server’s life is echoed
 
 Several respondents said they would subscribe to moderation actions via an inbox they could review but did not seem open to fully delegating their blocks to a service.
 
-Shared blocks (as opposed to block*lists*) are individual recommendations passed between users and moderators. One form of sharing blocks is \#FediBlock, a popular hashtag that individual actors can use to promote servers or accounts they believe should be subject to moderation for one reason or another across multiple servers. The hashtag was created by Fediverse server moderator Marcia X and popularized by longtime Fediverse user Ginger (`@gingerrroot@kitty.town`). In [a December 2023 interview](https://logicmag.io/policy/blackness-in-the-fediverse-a-conversation-with-marcia-x/) Marcia X describes its origin “as a tool made by queer femmes to put the spotlight on a sexual harasser.”
+Shared blocks (as opposed to block*lists*) are individual recommendations passed between users and moderators. One form of sharing blocks is \#FediBlock, a popular hashtag that individual actors can use to promote servers or accounts they believe should be subject to moderation for one reason or another across multiple servers. The hashtag was created by Fediverse server moderator [Marcia X](https://blackqueer.life/@ArtistMarciaX) and popularized by longtime Fediverse user [Ginger](https://kitty.town/@gingerrroot). In [a December 2023 interview](https://logicmag.io/policy/blackness-in-the-fediverse-a-conversation-with-marcia-x/) Marcia X describes its origin “as a tool made by queer femmes to put the spotlight on a sexual harasser.”
 
 One admin was supportive of \#FediBlock in its early days, 
 
