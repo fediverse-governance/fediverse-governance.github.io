@@ -756,7 +756,6 @@ content/10.report.md:1538:fediverse
 content/10.report.md:1538:Fediverse
 content/10.report.md:1538:Fediverse
 content/10.report.md:1538:femmes
-content/10.report.md:1538:gingerrroot
 content/10.report.md:1540:FediBlock
 content/10.report.md:1542:defederation
 content/10.report.md:1542:FediBlock
