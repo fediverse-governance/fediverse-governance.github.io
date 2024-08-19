@@ -12,3 +12,6 @@ authors:
   -
     name: Darius Kazemi
 abstract: "Research report on Fediverse microblogging server governance: risks and mitigations, moderation, server leadership, federated diplomacy, and governance tooling."
+html_url: "https://fediverse-governance.github.io/"
+pdf_url: "https://fediverse-governance.github.io/manuscript.pdf"
+description: "Research report on Fediverse microblogging server governance: risks and mitigations, moderation, server leadership, federated diplomacy, and governance tooling."
