@@ -46,7 +46,7 @@ DDoS
 defederate
 defederated
 defederating
-defederation
+Defederation
 defederations
 disjunctures
 DM
@@ -64,7 +64,7 @@ Fedi
 FediBlock
 FediDB
 fedifams
-fediverse
+Fediverse
 Fediverse’s
 femmes
 fi
@@ -129,7 +129,7 @@ masse
 MAUs
 Merveilles
 Meta’s
-Microblogging
+microblogging
 minoritized
 mitigations
 Moritz
@@ -146,7 +146,7 @@ OAuth
 OCF
 Oliphant
 onboarded
-onboarding
+Onboarding
 ophiocephalic
 orgs
 OStatus

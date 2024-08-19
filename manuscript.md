@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-19" />
   <meta name="citation_publication_date" content="2024-08-19" />
   <meta property="article:published_time" content="2024-08-19" />
-  <meta name="dc.modified" content="2024-08-19T16:53:01+00:00" />
-  <meta property="article:modified_time" content="2024-08-19T16:53:01+00:00" />
+  <meta name="dc.modified" content="2024-08-19T16:58:34+00:00" />
+  <meta property="article:modified_time" content="2024-08-19T16:58:34+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,13 +39,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://fediverse-governance.github.io/" />
   <meta name="citation_pdf_url" content="https://fediverse-governance.github.io/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fediverse-governance.github.io/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/v/23f81e28bfcb491c930a4d8f8a51a8bc9a06f8d1/" />
-  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/v/23f81e28bfcb491c930a4d8f8a51a8bc9a06f8d1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/v/23f81e28bfcb491c930a4d8f8a51a8bc9a06f8d1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/v/93e3339738a9d97c4227abe82bc81bc6665c24c2/" />
+  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/v/93e3339738a9d97c4227abe82bc81bc6665c24c2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/v/93e3339738a9d97c4227abe82bc81bc6665c24c2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/23f81e28bfcb491c930a4d8f8a51a8bc9a06f8d1/content/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/23f81e28bfcb491c930a4d8f8a51a8bc9a06f8d1/content/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/93e3339738a9d97c4227abe82bc81bc6665c24c2/content/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/93e3339738a9d97c4227abe82bc81bc6665c24c2/content/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://fediverse-governance.github.io/v/23f81e28bfcb491c930a4d8f8a51a8bc9a06f8d1/))
+([permalink](https://fediverse-governance.github.io/v/93e3339738a9d97c4227abe82bc81bc6665c24c2/))
 was automatically generated
-from [fediverse-governance/fediverse-governance.github.io@23f81e2](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/23f81e28bfcb491c930a4d8f8a51a8bc9a06f8d1)
+from [fediverse-governance/fediverse-governance.github.io@93e3339](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/93e3339738a9d97c4227abe82bc81bc6665c24c2)
 on August 19, 2024.
 </em></small>
 
@@ -97,7 +97,7 @@ on August 19, 2024.
 # **Findings Report: Governance on Fediverse Microblogging Servers**
 
 [Erin Kissane](https://erinkissane.com/) and [Darius Kazemi](https://tinysubversions.com/) with the support of the [Digital Infrastructure Insights Fund](https://infrastructureinsights.fund/)  
-August 19, 2024
+August 20, 2024
 
 ## **How to Use These Findings** {#how-to-use-these-findings}
 
@@ -709,11 +709,11 @@ The same moderator noted that the invitation process had the secondary effect of
 
 > *…we tried “register but with approval,” but that also proved to get us a whole bunch of spam registrations. And it left one or two administrators having to try and identify and look up every person. With the invite code that everybody can share, we control the code, it does expire, it's limited, you can't sign up more than 100 people, and it's really brought the community into managing who joins the community in that. My joke about it was we want to be the worst kept secret handshake. You know, everybody can hand the code out to their friends or their family or somebody they met in a bookstore, we just want to have that connection to build the community. And it seems to have worked really well.*
 
-**The small US-based regional server** we spoke with also has closed/invitation-only registrations, and includes a note on the server’s “About page” detailing a short process for emailing the administrator to apply for an account, with an emphasis on demonstrating shared values with the server’s existing user base, in addition to being based in the Minneapolis-St. Paul area.
+**The small US-based regional server** we spoke with also has closed/invitation-only registrations, and includes a note on the server’s “About” page detailing a short process for emailing the administrator to apply for an account, with an emphasis on demonstrating shared values with the server’s existing user base, in addition to being based in the Minneapolis-St. Paul area.
 
 The admin of that server spoke about their expectations for prospective members:
 
-> *You know—it doesn't have to be a thousand word essay. But we work in text, right? Like it's text posting—posting is mostly text. So I need you to be a good demonstrator of that stuff.*
+> *You know—it doesn't have to be a thousand word essay. But we work in text, right? Like posting is mostly text. So I need you to be a good demonstrator of that stuff.*
 
 #### 1.3 Open registration {#1.3-open-registration}
 
