@@ -46,7 +46,7 @@ DDoS
 defederate
 defederated
 defederating
-defederation
+Defederation
 defederations
 disjunctures
 DM
@@ -128,7 +128,7 @@ masse
 MAUs
 Merveilles
 Meta’s
-microblogging
+Microblogging
 minoritized
 mitigations
 Moritz
@@ -145,7 +145,7 @@ OAuth
 OCF
 Oliphant
 onboarded
-onboarding
+Onboarding
 orgs
 OStatus
 overextension

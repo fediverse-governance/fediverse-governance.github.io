@@ -165,6 +165,8 @@ content/10.report.md:176:IFTAS
 content/10.report.md:182:MAUs
 content/10.report.md:182:MAUs
 content/10.report.md:182:racialized
+content/10.report.md:192:fediverse
+content/10.report.md:192:fediverse
 content/10.report.md:192:Fediverse
 content/10.report.md:192:Fediverse
 content/10.report.md:192:Fediverse
