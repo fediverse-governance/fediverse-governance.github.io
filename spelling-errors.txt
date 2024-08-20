@@ -75,7 +75,7 @@ Flipboard
 fluencies
 FOIA
 framings
-funders
+Funders
 furries
 GDPR
 Gehl
@@ -128,7 +128,7 @@ masse
 MAUs
 Merveilles
 Meta’s
-Microblogging
+microblogging
 minoritized
 mitigations
 Moritz
@@ -145,7 +145,7 @@ OAuth
 OCF
 Oliphant
 onboarded
-onboarding
+Onboarding
 orgs
 OStatus
 overextension
@@ -179,7 +179,7 @@ signups
 Siino
 situ
 skillsets
-Socio
+socio
 spammy
 sponsorships
 StatusNet
