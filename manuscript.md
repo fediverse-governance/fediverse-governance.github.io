@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-20" />
   <meta name="citation_publication_date" content="2024-08-20" />
   <meta property="article:published_time" content="2024-08-20" />
-  <meta name="dc.modified" content="2024-08-20T04:05:12+00:00" />
-  <meta property="article:modified_time" content="2024-08-20T04:05:12+00:00" />
+  <meta name="dc.modified" content="2024-08-20T04:08:31+00:00" />
+  <meta property="article:modified_time" content="2024-08-20T04:08:31+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,13 +39,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://fediverse-governance.github.io/" />
   <meta name="citation_pdf_url" content="https://fediverse-governance.github.io/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fediverse-governance.github.io/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/v/addbc09609828741b7904ac9c100dfbdca353238/" />
-  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/v/addbc09609828741b7904ac9c100dfbdca353238/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/v/addbc09609828741b7904ac9c100dfbdca353238/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/v/ab6dd834d44a6a80d731ef8b558fbec8cc0cafc7/" />
+  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/v/ab6dd834d44a6a80d731ef8b558fbec8cc0cafc7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/v/ab6dd834d44a6a80d731ef8b558fbec8cc0cafc7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/addbc09609828741b7904ac9c100dfbdca353238/content/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/addbc09609828741b7904ac9c100dfbdca353238/content/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/ab6dd834d44a6a80d731ef8b558fbec8cc0cafc7/content/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/ab6dd834d44a6a80d731ef8b558fbec8cc0cafc7/content/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://fediverse-governance.github.io/v/addbc09609828741b7904ac9c100dfbdca353238/))
+([permalink](https://fediverse-governance.github.io/v/ab6dd834d44a6a80d731ef8b558fbec8cc0cafc7/))
 was automatically generated
-from [fediverse-governance/fediverse-governance.github.io@addbc09](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/addbc09609828741b7904ac9c100dfbdca353238)
+from [fediverse-governance/fediverse-governance.github.io@ab6dd83](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/ab6dd834d44a6a80d731ef8b558fbec8cc0cafc7)
 on August 20, 2024.
 </em></small>
 
@@ -97,33 +97,8 @@ on August 20, 2024.
 # **Findings Report: Governance on Fediverse Microblogging Servers**
 
 [Erin Kissane](https://erinkissane.com/) and [Darius Kazemi](https://tinysubversions.com/) with the support of the [Digital Infrastructure Insights Fund](https://infrastructureinsights.fund/)  
-*August 20, 2024*
-
-## **How to Use These Findings** {#how-to-use-these-findings}
-
-To make our research as useful as possible for multiple audiences, we’ve organized our findings and recommendations into three documents:
-
-* The document you’re reading now, our **Findings Report** (\~40,000 words), is the most comprehensive record of our observations and recommendations. It’s divided into six sections, and opens with a discussion of the project’s stakes, goals, terms, methods, and risks, which we encourage anyone who wants to engage with the findings to read to get a sense of what we’re trying—and not trying—to accomplish here, and why. After this:
-
-  * [**Section One**](\#section-one:-overall-observations) lays out our overall observations, the kinds of risks articulated by our participants, and our most opinionated recommendations for addressing these risks.
-
-  * **Sections Two through Five** walk through our observations about four different facets of governance on the Fediverse ([**Moderation**](\#section-two:-moderation), [**Server Leadership**](\#section-three:-server-leadership), [**Federated Diplomacy**](\#section-four:-federated-diplomacy), and [**Tooling**](\#section-five:-tooling)).
-
-  * [**Section Six**](\#section-six:-the-case-for-the-fediverse) includes a collection of the most hopeful and enthusiastic comments our participants made about their experiences with and hopes for the Fediverse; these passages were too heartening to leave out.
-
-* The second document, the [**Quick-Start Guide to Fediverse Governance Decisions**](https://fediverse-governance.github.io/images/quick-start.pdf) (\~2,000 words) is an abbreviated introduction and a densely hyperlinked alternate path into the full Findings Report *for people who run or are considering running a Fediverse microblogging server*.
-
-* The third document, [**Fediverse Governance Opportunities for Funders & Developers**](https://fediverse-governance.github.io/images/opportunities.pdf) (\~4,000 words), is a condensed version of our findings *for individuals and institutions interested in building and supporting stronger infrastructure for Fediverse governance*, also with links to more comprehensive information in the full Findings Report.
-
-### **Suggested reading pathways** {#suggested-reading-pathways}
-
-If you’re **a relatively new Fediverse administrator, moderator, or other participant in governance** interested in applying our participants’ insights to your own work, the simplest way into these findings will probably be to read the [**Quick-Start Guide**](https://fediverse-governance.github.io/images/quick-start.pdf) and the linked sections of the full **Findings Report** that draw your attention.
-
-If you’re a **part of the philanthropic ecosystem** interested in the ways of strengthening Fediverse governance that emerged from our research, we recommend starting with the [**Opportunities for Funders and Developers**](https://fediverse-governance.github.io/images/opportunities.pdf) document, and the [**introductory material**](\#project-introduction) and **Sections [One](\#section-one:-overall-observations)** **and [Six](\#section-six:-the-case-for-the-fediverse)** of the present document.
-
-If you’re **a developer (or representing a group of developers)** and want to contribute meaningfully to Fediverse governance problems we identify in our research, we recommend reading the [**Opportunities for Funders and Developers**](https://fediverse-governance.github.io/images/opportunities.pdf) document, the [**introductory material**](\#project-introduction) and **Sections [One](\#section-one:-overall-observations)**, [**Five**](\#section-five:-tooling), and  [**Six**](\#section-six:-the-case-for-the-fediverse) of the present document.
-
-If you’re already **deeply engaged with the Fediverse, but not prepared to read 40,000 words of material in order**, we suggest beginning by reading our [**introductory material**](\#project-introduction) and [**Section One**](\#section-one:-overall-observations) in the present document and scanning the **Observations** subsections at the beginning of **Sections Two through Five** to determine which other sections will be useful to you. (**Section Six** is a great chaser\!)
+*August 20, 2024*  
+\[[PDF version](https://fediverse-governance.github.io/images/fediverse-governance.pdf) / [web version](https://fediverse-governance.github.io/)\]
 
 ## **Project Introduction** {#project-introduction}
 
@@ -147,6 +122,32 @@ Having completed our initial inquiry, we’re optimistic that:
 
 
 But, crucially, **we don’t think that the Fediverse is likely to realize these potential benefits without ongoing and intentional emphasis on—and funding for—addressing the cultural, financial, legal, and technical governance needs and gaps** highlighted by our research participants.
+
+### **How to Use These Findings** {#how-to-use-these-findings}
+
+To make our research as useful as possible for multiple audiences, we’ve organized our findings and recommendations into three documents:
+
+* The document you’re reading now, our **Findings Report** (\~40,000 words), is the most comprehensive record of our observations and recommendations. It’s divided into six sections, and opens with a discussion of the project’s stakes, goals, terms, methods, and risks, which we encourage anyone who wants to engage with the findings to read to get a sense of what we’re trying—and not trying—to accomplish here, and why. After this:
+
+  * [**Section One**](\#section-one:-overall-observations) lays out our overall observations, the kinds of risks articulated by our participants, and our most opinionated recommendations for addressing these risks.
+
+  * **Sections Two through Five** walk through our observations about four different facets of governance on the Fediverse ([**Moderation**](\#section-two:-moderation), [**Server Leadership**](\#section-three:-server-leadership), [**Federated Diplomacy**](\#section-four:-federated-diplomacy), and [**Tooling**](\#section-five:-tooling)).
+
+  * [**Section Six**](\#section-six:-the-case-for-the-fediverse) includes a collection of the most hopeful and enthusiastic comments our participants made about their experiences with and hopes for the Fediverse; these passages were too heartening to leave out.
+
+* The second document, the [**Quick-Start Guide to Fediverse Governance Decisions**](https://fediverse-governance.github.io/images/quick-start.pdf) (\~2,000 words) is an abbreviated introduction and a densely hyperlinked alternate path into the full Findings Report *for people who run or are considering running a Fediverse microblogging server*.
+
+* The third document, [**Fediverse Governance Opportunities for Funders & Developers**](https://fediverse-governance.github.io/images/opportunities.pdf) (\~4,000 words), is a condensed version of our findings *for individuals and institutions interested in building and supporting stronger infrastructure for Fediverse governance*, also with links to more comprehensive information in the full Findings Report.
+
+#### Suggested reading pathways {#suggested-reading-pathways}
+
+If you’re **a relatively new Fediverse administrator, moderator, or other participant in governance** interested in applying our participants’ insights to your own work, the simplest way into these findings will probably be to read the [**Quick-Start Guide**](https://fediverse-governance.github.io/images/quick-start.pdf) and the linked sections of the full **Findings Report** that draw your attention.
+
+If you’re a **part of the philanthropic ecosystem** interested in the ways of strengthening Fediverse governance that emerged from our research, we recommend starting with the [**Opportunities for Funders and Developers**](https://fediverse-governance.github.io/images/opportunities.pdf) document, and the [**introductory material**](\#project-introduction) and **Sections [One](\#section-one:-overall-observations)** **and [Six](\#section-six:-the-case-for-the-fediverse)** of the present document.
+
+If you’re **a developer (or representing a group of developers)** and want to contribute meaningfully to Fediverse governance problems we identify in our research, we recommend reading the [**Opportunities for Funders and Developers**](https://fediverse-governance.github.io/images/opportunities.pdf) document, the [**introductory material**](\#project-introduction) and **Sections [One](\#section-one:-overall-observations)**, [**Five**](\#section-five:-tooling), and  [**Six**](\#section-six:-the-case-for-the-fediverse) of the present document.
+
+If you’re already **deeply engaged with the Fediverse, but not prepared to read 40,000 words of material in order**, we suggest beginning by reading our [**introductory material**](\#project-introduction) and [**Section One**](\#section-one:-overall-observations) in the present document and scanning the **Observations** subsections at the beginning of **Sections Two through Five** to determine which other sections will be useful to you. ([**Section Six**](\#section-six:-the-case-for-the-fediverse) is a great chaser\!
 
 ### **Our goals** {#our-goals}
 
