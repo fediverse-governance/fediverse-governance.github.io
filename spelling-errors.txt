@@ -46,7 +46,7 @@ DDoS
 defederate
 defederated
 defederating
-Defederation
+defederation
 defederations
 disjunctures
 DM
@@ -145,7 +145,7 @@ OAuth
 OCF
 Oliphant
 onboarded
-Onboarding
+onboarding
 orgs
 OStatus
 overextension
@@ -153,7 +153,7 @@ Patreon
 PeerTube
 PhotoDNA
 Piaille
-PixelFed
+Pixelfed
 Pleroma’s
 policymaking
 pre
