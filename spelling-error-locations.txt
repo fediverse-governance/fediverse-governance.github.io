@@ -7,9 +7,11 @@ content/10.report.md:3:Kazemi
 content/10.report.md:3:Kissane
 content/10.report.md:14:Fediverse
 content/10.report.md:16:Fediverse
+content/10.report.md:18:fediverse
 content/10.report.md:18:Fediverse
 content/10.report.md:18:Fediverse
 content/10.report.md:18:microblogging
+content/10.report.md:20:fediverse
 content/10.report.md:20:Fediverse
 content/10.report.md:20:Fediverse
 content/10.report.md:20:Funders

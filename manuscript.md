@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-20" />
   <meta name="citation_publication_date" content="2024-08-20" />
   <meta property="article:published_time" content="2024-08-20" />
-  <meta name="dc.modified" content="2024-08-20T03:24:53+00:00" />
-  <meta property="article:modified_time" content="2024-08-20T03:24:53+00:00" />
+  <meta name="dc.modified" content="2024-08-20T03:30:32+00:00" />
+  <meta property="article:modified_time" content="2024-08-20T03:30:32+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,13 +39,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://fediverse-governance.github.io/" />
   <meta name="citation_pdf_url" content="https://fediverse-governance.github.io/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fediverse-governance.github.io/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/v/529701cab7a82741d826efb9b076a9cd3f824d14/" />
-  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/v/529701cab7a82741d826efb9b076a9cd3f824d14/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/v/529701cab7a82741d826efb9b076a9cd3f824d14/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/v/1ed4a2b511aff913c232567692deef682a683078/" />
+  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/v/1ed4a2b511aff913c232567692deef682a683078/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/v/1ed4a2b511aff913c232567692deef682a683078/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/529701cab7a82741d826efb9b076a9cd3f824d14/content/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/529701cab7a82741d826efb9b076a9cd3f824d14/content/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/1ed4a2b511aff913c232567692deef682a683078/content/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/1ed4a2b511aff913c232567692deef682a683078/content/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://fediverse-governance.github.io/v/529701cab7a82741d826efb9b076a9cd3f824d14/))
+([permalink](https://fediverse-governance.github.io/v/1ed4a2b511aff913c232567692deef682a683078/))
 was automatically generated
-from [fediverse-governance/fediverse-governance.github.io@529701c](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/529701cab7a82741d826efb9b076a9cd3f824d14)
+from [fediverse-governance/fediverse-governance.github.io@1ed4a2b](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/1ed4a2b511aff913c232567692deef682a683078)
 on August 20, 2024.
 </em></small>
 
@@ -111,9 +111,9 @@ To make our research as useful as possible for multiple audiences, we’ve organ
 
   * **Section Six** includes a collection of the most hopeful and enthusiastic comments our participants made about their experiences with and hopes for the Fediverse; these passages were too heartening to leave out.
 
-* The second document, the **Quick-Start Guide to Fediverse Governance Decisions** (\~2,000 words) is an abbreviated introduction and a densely hyperlinked alternate path into the full Findings Report *for people who run or are considering running a Fediverse microblogging server*. 
+* The second document, the [**Quick-Start Guide to Fediverse Governance Decisions**](https://fediverse-governance.github.io/images/quick-start.pdf) (\~2,000 words) is an abbreviated introduction and a densely hyperlinked alternate path into the full Findings Report *for people who run or are considering running a Fediverse microblogging server*.
 
-* The third document, **Fediverse Governance Opportunities for Funders & Developers** (\~4,000 words), is a condensed version of our findings *for individuals and institutions interested in building and supporting stronger infrastructure for Fediverse governance*, also with links to more comprehensive information in the full Findings Report.
+* The third document, [**Fediverse Governance Opportunities for Funders & Developers**](https://fediverse-governance.github.io/images/opportunities.pdf) (\~4,000 words), is a condensed version of our findings *for individuals and institutions interested in building and supporting stronger infrastructure for Fediverse governance*, also with links to more comprehensive information in the full Findings Report.
 
 ### **Suggested reading pathways** {#suggested-reading-pathways}
 
