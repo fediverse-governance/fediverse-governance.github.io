@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-20" />
   <meta name="citation_publication_date" content="2024-08-20" />
   <meta property="article:published_time" content="2024-08-20" />
-  <meta name="dc.modified" content="2024-08-20T16:51:31+00:00" />
-  <meta property="article:modified_time" content="2024-08-20T16:51:31+00:00" />
+  <meta name="dc.modified" content="2024-09-04T18:18:05+00:00" />
+  <meta property="article:modified_time" content="2024-09-04T18:18:05+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,13 +39,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://fediverse-governance.github.io/" />
   <meta name="citation_pdf_url" content="https://fediverse-governance.github.io/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://fediverse-governance.github.io/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/v/1fafb9a7a456f896ab5c7d3cf7d5adf406a0ef0a/" />
-  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/v/1fafb9a7a456f896ab5c7d3cf7d5adf406a0ef0a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/v/1fafb9a7a456f896ab5c7d3cf7d5adf406a0ef0a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://fediverse-governance.github.io/v/26b064eff1b0654987c0c81b40680f8ff73b2fbc/" />
+  <meta name="manubot_html_url_versioned" content="https://fediverse-governance.github.io/v/26b064eff1b0654987c0c81b40680f8ff73b2fbc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://fediverse-governance.github.io/v/26b064eff1b0654987c0c81b40680f8ff73b2fbc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/1fafb9a7a456f896ab5c7d3cf7d5adf406a0ef0a/content/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/1fafb9a7a456f896ab5c7d3cf7d5adf406a0ef0a/content/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/26b064eff1b0654987c0c81b40680f8ff73b2fbc/content/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/fediverse-governance/fediverse-governance.github.io/raw/26b064eff1b0654987c0c81b40680f8ff73b2fbc/content/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -65,12 +65,13 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://fediverse-governance.github.io/v/1fafb9a7a456f896ab5c7d3cf7d5adf406a0ef0a/))
+([permalink](https://fediverse-governance.github.io/v/26b064eff1b0654987c0c81b40680f8ff73b2fbc/))
 was automatically generated
-from [fediverse-governance/fediverse-governance.github.io@1fafb9a](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/1fafb9a7a456f896ab5c7d3cf7d5adf406a0ef0a)
-on August 20, 2024.
+from [fediverse-governance/fediverse-governance.github.io@26b064e](https://github.com/fediverse-governance/fediverse-governance.github.io/tree/26b064eff1b0654987c0c81b40680f8ff73b2fbc)
+on September 4, 2024.
 </em></small>
 
+Published: August 20, 2024
 
 
 ## Authors
