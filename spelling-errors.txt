@@ -46,7 +46,7 @@ DDoS
 defederate
 defederated
 defederating
-defederation
+Defederation
 defederations
 disjunctures
 DM
@@ -145,7 +145,7 @@ OAuth
 OCF
 Oliphant
 onboarded
-onboarding
+Onboarding
 orgs
 OStatus
 overextension
@@ -179,7 +179,7 @@ signups
 Siino
 situ
 skillsets
-Socio
+socio
 spammy
 sponsorships
 StatusNet
